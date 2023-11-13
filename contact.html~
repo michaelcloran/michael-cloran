@@ -51,9 +51,8 @@
 	 <section id="main-content">
 		<div id="main-content-text">
          <form id="contact-form"  action="https://formdump.codeinstitute.net" method="POST">
-            
-          <fieldset>
-           <legend><h3>Contact Michael Cloran</h3></legend>
+            <h3>Contact Michael Cloran</h3><hr>
+          
            <label for="first_name">First Name</label>
            <input type="text" name="first_name" id="first_name" class="text-input" required>
            <br>
@@ -71,7 +70,7 @@
           <br>
 
           <button type="submit" class="contact-button">Let's Run!</button>
-         </fieldset>
+         
        </form>
      </div>
     </section>
