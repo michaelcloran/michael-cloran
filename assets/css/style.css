@@ -133,7 +133,8 @@ main {
 	margin-left:10px;
 	left:200px;
 	top:130px;
-	width: 75%
+	width: 75%;
+	height: 100%;
 }
 
 #main-content-text h2{
@@ -163,7 +164,7 @@ footer{
 	color: #ffffff;
 	background-color: #000000;
    text-align: center;
-   height:10vh
+   height: 2vh;
    padding: 5px 0;
     
    display: flex;
