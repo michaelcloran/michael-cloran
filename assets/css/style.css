@@ -19,8 +19,9 @@ body {
 
 }
 
-#continer{
+#container{
 	height: 100vh;
+	
 	overflow: auto;
 }
 
@@ -132,7 +133,7 @@ main {
 	margin-left:10px;
 	left:200px;
 	top:130px;
-	width: 100%
+	width: 75%
 }
 
 #main-content-text h2{
