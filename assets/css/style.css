@@ -152,7 +152,6 @@ main {
 }
 
 /* contact form */
-
 #contact{
     /*background-image: url("../images/signup-image.webp");*/
     background-color: rgba(60, 60, 60, 0.6);
@@ -165,13 +164,10 @@ main {
 
 #contact-form {
     max-width: 500px;
-    /*left: 10%;
-    top: 150px;*/
     padding: 30px;
     color: #ffffff;
     box-shadow: 0 5px 10px #3a3a3a;
     background-color: rgba(60, 60, 60, 0.6);
-
 }
 
 #contact-form h3{
@@ -192,10 +188,7 @@ main {
     border: 1px solid #fafafa;
     border-radius: 2px;
     padding: 0 5px;
-
 }
-
-
 
 .contact-button {
     margin-top: 20px;
@@ -215,14 +208,12 @@ main {
     color: #454b1b;
 }
 
-
 /* footer */
 footer{
 	position: fixed;
    left: 0;
    bottom: 0;
    width: 100%;
-   
 }
 
 #social-networks {
