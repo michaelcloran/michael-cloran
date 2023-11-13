@@ -173,6 +173,10 @@ main {
 
 }
 
+#contact-form h3{
+	color: #ffffff;
+}
+
 #contact h2 {
     color: #fafafa;
     margin-bottom: 20px;
