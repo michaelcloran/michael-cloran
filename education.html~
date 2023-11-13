@@ -46,7 +46,92 @@
 			<h2>Languages</h2>
 			<p>English, German</p>
 		</div>	
-	</section>    
+	</section>   
+	<section id="main-content">
+		<div id="main-content-text">
+		<h1>Education</h1>
+			<table>
+				<tr>
+					<th></th>		
+					<th></th>
+					<th></th>
+					<th></th>		
+				</tr>		
+				<tr>
+					<td>Hobby/Games Programming</td>
+					<td>Udemy/Various</td>
+					<td>Remote</td>
+					<td>2006 - Present</td>
+				</tr>		
+				<tr>
+					<td>CPU design</td>
+					<td>Udemy</td>
+					<td>Remote</td>
+					<td>2019</td>
+				</tr>		
+				<tr>
+					<td>NLN</td>
+					<td>National Learning Network</td>
+					<td>Arklow</td>
+					<td>2017 - 2019</td>
+				</tr>		
+				<tr>
+					<td>Train The Trainer</td>
+					<td>Daralionn</td>
+					<td>Wexford</td>
+					<td>2012</td>
+				</tr>		
+				<tr>
+					<td>Computerised Accounts</td>
+					<td>FAS</td>
+					<td>Gorey</td>
+					<td>2009</td>
+				</tr>		
+				<tr>
+					<td>PC Maintenance & Networks</td>
+					<td>FAS</td>
+					<td>Loughlinstown</td>
+					<td>2006</td>
+				</tr>		
+				<tr>
+					<td>B.Eng in Telecommunications</td>
+					<td>DCU</td>
+					<td>2005</td>
+					<td>Glasnevin Dublin 9</td>
+				</tr>		
+				<tr>
+					<td>ECDL</td>
+					<td>National Learning Network</td>
+					<td>Arklow</td>
+					<td>2002</td>
+				</tr>		
+				<tr>
+					<td>Computer Architecture</td>
+					<td>Oscoil(DCU)</td>
+					<td>Distance Learning</td>
+					<td>2000</td>
+				</tr>		
+				<tr>
+					<td>Communications Technology</td>
+					<td>Oscoil(DCU)</td>
+					<td>Distance Learning</td>
+					<td>2000</td>
+				</tr>		
+				<tr>
+					<td>Technician Diploma in Electrical Engineering</td>
+					<td>D.I.T Kevin St</td>
+					<td>1997</td>
+					<td>Dublin</td>
+				</tr>		
+				<tr>
+					<td>Leaving Certificate</td>
+					<td>Arklow Community College</td>
+					<td>Arklow</td>
+					<td>1993</td>
+				</tr>		
+			</table>
+		</div>
+	</section> 
   </main>
   
   <!-- footer -->

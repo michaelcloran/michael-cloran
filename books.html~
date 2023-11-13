@@ -50,12 +50,12 @@
 	 
 	 <section id="main-content">
 		<div id="main-content-text"> 
-			<h1>Fact Or Fiction You Decide</h1>
+			<h1 id="factorfiction">Fact Or Fiction You Decide</h1>
 			<p>Todo</p>
 	
-			<h1>The Holodeck A Specification</h1>
+			<h1 id="theholodeck">The Holodeck A Specification</h1>
 			<p>Todo</p>
-	</div>
+		</div>
 	</section>
   </main>
   
