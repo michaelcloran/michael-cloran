@@ -57,7 +57,7 @@
 			<br><br>
 			
 			<h2>Employment History</h2>
-			<br>
+			<hr>
 			<h3>Course Creator</h3>
 			<h4>TutorialsPoint.com</h4>
 			<h4>May 22 -> Present Part-time Remote</h4>
@@ -77,12 +77,16 @@
 			<h4>Fact Or Fiction You Decide</h4>
 			<h4>Jan 22 -> Jan 23 Part Time Remote</h4>
 			<p>The book covers Holodeck Theory and related technologies, food replicator Technology, 2 different types of transporter and more. 
-			It can be purchased on Amazon.com</p><a href="#container">Goto Top</a>
+			It can be purchased on Amazon.com</p>
+			<a href="books.html#factorfiction">More..</a>			
+			<a href="#container">Goto Top</a>
 			
 			<h3>Book Author</h3>
 			<h4>The Holodeck A Specification</h4>
 			<h4>Feb 15 -> Feb 20 Part Time Remote</h4>
-			<p>This book is about a requirements specification for a Holodeck at a proof of concept level.</p><a href="#container">Goto Top</a>
+			<p>This book is about a requirements specification for a Holodeck at a proof of concept level.</p>
+			<a href="books.html#theholodeck">More..</a>					
+			<a href="#container">Goto Top</a>
 			
 			<h3>Software Developer/Designer</h3>
 			<h4>Michael Cloran Sole Trader</h4>
