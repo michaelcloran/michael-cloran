@@ -11,7 +11,6 @@
   </head>
   <body>
   <header>
-  
   <a href="index.html">
   	<h1>Michael Cloran</h1>
   </a>
@@ -47,6 +46,13 @@
 			<p>English, German</p>
 		</div>	
 	</section>  
+	<section id="main-content">
+		<div id="main-content-text">
+			<h2>Profile Summary</h2>
+			<p>An IT professional with several years commercial experience in software development and networking in several business sectors. Technically proficient with good communication and interpersonal skills.
+			Hard working, motivated and very ambitious.		
+		</div>	
+	</section>
   </main>
   
   <footer></footer>
