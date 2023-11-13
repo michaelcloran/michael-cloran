@@ -20,7 +20,8 @@ body {
 }
 
 #continer{
-	height: 300px;
+	height: 100vh;
+	/*height: 300px;*/
 	overflow: auto;
 }
 
@@ -104,7 +105,8 @@ main {
 #side-listing{
 	 height: 600px;
 	 width:200px;
-    position:relative;
+    /*position:relative;*/
+    position: fixed;
     
 }
 
@@ -168,7 +170,8 @@ footer{
 	color: #ffffff;
 	background-color: #000000;
     text-align: center;
-    padding: 20px 0;
+    height:10vh
+    padding: 5px 0;
     
     display: flex;
     justify-content: space-evenly;
