@@ -95,11 +95,19 @@ nav {
 
 /* main content*/
 main {
-	margin-top:-40px;
-   /*height:2000px;*/
+	margin-top:-125px;
    height: 100%; 
+   /*background-color: yellow; used for debugging*/
+  display: flex;
+  flex-direction: column;
 }
 
+main > section{
+	position: relative;
+	/*background-color: #f1f1f1; used for debugging*/
+  	font-size: 1rem;
+   width: 100%;
+}
 /* side listing section */
 #side-listing{
 	 height: 600px;
@@ -118,8 +126,8 @@ main {
     font-size: 130%;
     position: absolute;
     bottom: 30px;
-    width: 200px;
-    padding-top: 40px;
+    width: 100vw;
+    padding-top: 20px;
     padding-left: 10px;
 }
 
@@ -129,10 +137,11 @@ main {
 
 /* main content section*/
 #main-content{
-	position:absolute;
+	
+	/*position:absolute;*/
 	margin-left:10px;
-	left:200px;
-	top:130px;
+	left:10px;
+	top:600px;
 	width: 75%;
 	height: 100%;
 }
@@ -153,11 +162,10 @@ main {
 
 /* contact form */
 #contact{
-    /*background-image: url("../images/signup-image.webp");*/
-    background-color: rgba(60, 60, 60, 0.6);
+    /*background-color: rgba(60, 60, 60, 0.6);*/
     padding: 20px 10% 0 10%;
     
-    background-size: cover;
+    /*background-size: cover;*/
     background-position: 75%;
     flex-grow: 1;
 }
@@ -259,9 +267,34 @@ footer{
         display: none;
     }
 
+	#side-listing-content{
+    	background-color: #000000;
+    	font-size: 130%;
+    	position: absolute;
+    	bottom: 30px;
+    	width: 200px;
+    	padding-top: 40px;
+    	padding-left: 10px;
+	}
+	
+	#main-content{
+		margin-left:10px;
+		left:200px;
+		top:130px;
+		width: 75%;
+		height: 100%;
+	}
+	
 	main {
    	margin-top:-20px;
    }
+   
+   main > section{
+   	display: block;
+		/*background-color: #f1f1f1;*/
+  		font-size: 1rem;
+  		width: 75%;
+	}
     
 }
 
