@@ -105,7 +105,6 @@ main {
 #side-listing{
 	 height: 600px;
 	 width:200px;
-    /*position:relative;*/
     position: fixed;
     
 }
