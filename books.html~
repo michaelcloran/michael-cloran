@@ -35,7 +35,29 @@
       </nav>
   </header>
   
-  <main></main>
+  <main>
+	<section id="side-listing">
+		<div id="side-listing-content">
+			<img src="assets/images/Michael_Cloran.png" alt="Image of Michael Cloran">		
+			<h2>Skills</h2>			
+			<p>Java, HTML, C/C++, JavaScript, Python, SQL, Formal report writing, Skills as required.</p>
+			<h2>OS</h2>
+			<p>Linux, Windows</p>
+			<h2>Languages</h2>
+			<p>English, German</p>
+		</div>	
+	</section>  
+	 
+	 <section id="main-content">
+		<div id="main-content-text"> 
+			<h1>Fact Or Fiction You Decide</h1>
+			<p>Todo</p>
+	
+			<h1>The Holodeck A Specification</h1>
+			<p>Todo</p>
+	</div>
+	</section>
+  </main>
   
   <!-- footer -->
     <footer>
