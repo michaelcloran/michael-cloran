@@ -87,6 +87,43 @@ nav {
     font-size: 2rem;
 }
 
+/* main content*/
+main {
+   margin-top:-20px;
+    
+}
+
+/* side listing section */
+#side-listing{
+	 height: 600px;
+    width: 100%;
+    position:relative;
+    
+}
+
+#side-listing img{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#side-listing-content{
+    
+    background-color: #000000;
+    font-size: 130%;
+    position: absolute;
+    bottom: 30px;
+    width: 200px;
+    /*min-height: 200px;*/
+    padding-top: 40px;
+    padding-left: 10px;
+}
+
+#side-listing-content > h2, #side-listing-content > h3{
+    color: #ffffff;
+}
+
+
 /* media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
 
