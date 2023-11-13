@@ -1,9 +1,42 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Michael Cloran</title>
-    <meta content="">
+    
+    <meta charset="UTF-8">
+	<title>Michael Cloran</title>    
     <style></style>
+    
+     <!-- sylesheet-->
+    <link rel="stylesheet" href="assets/css/style.css" >
   </head>
-  <body></body>
+  <body>
+  <header>
+  
+  <a href="index.html">
+  	<h1>Michael Cloran</h1>
+  </a>
+  <input type="checkbox" id="nav-toggle" name="nav-toggle" >
+      <label for="nav-toggle" class="nav-toggle-label"><i class="fa-solid fa-bars"></i></label>
+      <nav>
+        <ul id="menu">
+          <li>
+            <a href="index.html" class="active">Home</a>
+          </li>
+          <li>
+            <a href="education.html">Education</a>
+          </li>
+          <li>
+          	<a href="books.html">Books</a>
+          </li>
+          <li>
+            <a href="contact.html">Contact</a>
+          </li>
+        </ul>
+      </nav>
+  </header>
+  
+  
+  <!-- Font Awesome kit -->
+    <script src="https://kit.fontawesome.com/cfc7fde0a2.js" crossorigin="anonymous"></script>
+  </body>
 </html>
