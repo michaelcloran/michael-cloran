@@ -19,6 +19,10 @@ body {
 
 }
 
+#continer{
+	min-height: 100vh;
+}
+
 h1, h2, h3 {
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
@@ -89,7 +93,9 @@ nav {
 
 /* main content*/
 main {
-   margin-top:-40px;
+	margin-top:-40px;
+   /*height:2000px;*/
+   height: 100%;
     
 }
 
@@ -108,7 +114,6 @@ main {
 }
 
 #side-listing-content{
-    
     background-color: #000000;
     font-size: 130%;
     position: absolute;
@@ -127,14 +132,16 @@ main {
 	position:absolute;
 	margin-left:10px;
 	left:200px;
-	top:160px;
+	top:130px;
 	width: 100%
-	height:600px;
+	
+	/*height:1000px;*/
 	
 	
 }
 
 #main-content-text h2{
+	height: 100%;
 	color: #000000;
 }
 	
@@ -142,12 +149,26 @@ main {
 	color: #000000;
 }
 
+#main-content-text ol{
+	margin-left: 30px;;
+	
+}
+
 /* footer */
+footer{
+	position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   
+}
+
 #social-networks {
 	color: #ffffff;
 	background-color: #000000;
     text-align: center;
     padding: 20px 0;
+    
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;

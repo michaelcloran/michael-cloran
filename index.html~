@@ -10,6 +10,8 @@
     <link rel="stylesheet" href="assets/css/style.css" >
   </head>
   <body>
+  
+  <div id="container">
   <header>
   <a href="index.html">
   	<h1>Michael Cloran</h1>
@@ -51,12 +53,161 @@
 			<h2>Profile Summary</h2>
 			<p>An IT professional with several years commercial experience in software development and networking in several business sectors. Technically proficient with good communication and interpersonal skills.
 			Hard working, motivated and very ambitious.		
+			<br><br>
+			<h2>Employment History</h2>
+			<h3>Course Creator</h3>
+			<h4>TutorialsPoint.com</h4>
+			<h4>May 22 -> Present Part-time Remote</h4>
+			<p>I published a course on this site to show a simulation of a basic optical CPU</p>
+			
+			<h3>Course Creator</h3>
+			<h4>Udemy.com</h4>
+			<h4>Dec 21 -> June 23 Part Time Remote</h4>
+			<p>The course covers modern Holodeck theory.</p>
+			
+			<h3>Course Creator</h3>
+			<h4>Udemy.com</h4>
+			<h4>Sept 21 -> June 23 Part Time Remote</h4>
+			<p>The course covers a basic optical CPU.</p>
+			
+			<h3>Book Author</h3>
+			<h4>Fact Or Fiction You Decide</h4>
+			<h4>Jan 22 -> Jan 23 Part Time Remote</h4>
+			<p>The book covers Holodeck Theory and related technologies, food replicator Technology, 2 different types of transporter and more. It can be purchased on Amazon.com</p>
+			
+			<h3>Book Author</h3>
+			<h4>The Holodeck A Specification</h4>
+			<h4>Feb 15 -> Feb 20 Part Time Remote</h4>
+			<p>This book is about a requirements specification for a Holodeck at a proof of concept level.</p>
+			
+			<h3>Software Developer/Designer</h3>
+			<h4>Michael Cloran Sole Trader</h4>
+			<h4>Apr 13 -> Jul 13 Remote</h4>
+			<p>I worked on a Graphical user interface driven Ideal Photonic Logic Simulator. 
+			This is an educational tool in order to allow a user to explore Photonic Hardware algorithms for large and complex systems. 
+			Note the scripting is at a high level and not used for component design thus it is similar to electronic binary but in the optical domain. 
+			Thus this software introduces my approach to decimal and binary in the optical domain.</p>
+			
+			<h3>Software Developer/Designer/Programmer</h3>
+			<h4>Clane College</h4>
+			<h4>Apr 12 -> Jul 13 Full Time Remote</h4>
+			<p>Designed from Initial report from scratch an Object Oriented exam management,creation and delivery based system with</p>
+			<br>			
+			<ol>
+				<li>Student management.</li>
+				<li>Training centers building, floor and room management.</li>
+				<li>Super admin access privilege for training center administration.</li>
+				<li>Admin access privilege for administering exam instances and students.</li>
+				<li>Author for creating exam forms via an exam creation toolbar and management of.</li>
+				<li>Student access privilege level for students to register for exam instances and to administer their account.</li>
+				<li>Helpdesk for a helpdesk remote monitoring and communication service.</li>
+			</ol>
+			<br>
+			<p>This system was designed with a user experience ethic and is a server driven application which has session management in 
+			place and a simple but effective user level cage and at the database layer has access privilege levels aswell as at the application layer. 
+			Also I had to design a helpdesk chat server with a helpdesk queueing system which uses the access privilege and session management of the web based system.
+			 I also put code in place for the design of an SSL based SOAP server. This system is cross platform capable.</p>
+		
+			<h3>Programmer/Developer</h3>		
+			<h4>Function Systems Ltd</h4>
+			<h4>Sep 2011 - Dec 2011 ABEC Arklow in office Full Time</h4>
+			<p>Developed a basic SOAP Server in PHP which adhered to the Open Travel FastRez message interchange specification for hotelier messaging and with this server 
+			tested some SOAP client scripts written in PHP.Developed from scratch a mail merge web based application. This Application consisted of a what you see is what 
+			you get editor with a toolbar for placeholders with a Word feel. To Mail Merge the Hotelier would first have to create a template via the editor and then via 
+			4 clicks choose type of clients and clients from their list and then send the email to their clients. This works via once the hotelier goes through the process 
+			the mail merged emails are submitted to a mail queue which via a scheduled task another script sends the queued email at a rate of 100 per minute. 
+			This was done with PHP PEAR. This system also has a template management system.</p>
+			
+			<h3>Programmer/developer sub-contractor</h3>
+			<h4>Tara Hill National Park</h4>
+			<h4>Apr 10 -> Sept 11 Gorey Enterprise Center in office Full Time</h4>
+			<p>A sole trader accountancy web based application consisting of 2 parts</p>
+			<br>
+			<ol>
+				<li>A Joomla based Frontoffice system for data input where only a skeleton of data is held</li>
+				<li>A backoffice multithreaded multiworker thread report generation server which via requests from frontoffice can move data from frontoffice to backoffice 
+					and can also generate reports and send them to frontoffice built with C style sockets ,threads, C++ and uses PHP for scripts.</li>
+			</ol>			
+		
+			<h3>Software Programmer</h3>
+			<h4>Tara Hill National Park</h4>
+			<h4>Jun 10 -> Apr 11 Gorey Enterprise Center in Office Full Time</h4>
+			<p>To learn jQuery and prototype a qData system under supervision of a senior programmer.
+			 This qData system was an advanced database querying and table generation tool using stored procedures to dynamically 
+ 				generate reports and to create stored procedures on the fly for these reports.
+			To start development on an Accountancy system for sole traders.</p>
+			
+			<h3>Junior Programmer</h3>
+			<h4>Jenerate</h4>
+			<h4>Jul 09 -> Jun 10 ABEC Arklow in office Full Time</h4>
+			<p>Responsible for the development of a database importer for the Joomla framework and the Magento framework.
+ 			Also responsible for the development of various scripts in php to do various maintenance jobs as required. 
+			I have also written a Salesforce connector in order to view Salesforce contacts in Joomla this required the use of 
+			SOAP protocol in php and was a fun project with the phptoolkit13_1.</p>
+			
+			<h3>Customer Service Agent</h3>
+			<h4>Elavon Arklow</h4>
+			<h4>Sep 06 -> Feb 09 In office Full Time</h4>
+			<p>During my time in Elavon I worked as a customer service representative in which I manned the phones and answered 
+			to merchant queries in regard to authorizations on on credit cards and also on merchant statement and billing. 
+			I also spent some time as a document specialist.</p>
+
+			<h3>Various roles from reworker to fault finding Technician</h3>	
+			<h4>Motorola B.V. and Beta Electronics</h4>
+			<h4>Jan 97 -> May 99 Full Time in Office</h4>
+			<p>When I started in Motorola I worked as a reworker and gradually worked my way up to work on a manufacturing 
+				line as a Radio Electronic fault finding and repair Technician. I also worked as a Fault finding Technician 
+				in Beta Electronics.</p>		
+			
+			
 		</div>	
 	</section>
+	
   </main>
   
-  <footer></footer>
-  
+  <!-- footer -->
+    <footer>
+      <ul id="social-networks">
+        <li>
+          <a
+            href="https://www.facebook.com/"
+            target="_blank"
+            rel="noopener"
+            aria-label="Visit facebook page (opens in a new tab)"
+            ><i class="fa-brands fa-facebook"></i>
+          </a>
+        </li>
+        <li>
+          <a
+            href="https://www.twitter.com/"
+            target="_blank"
+            rel="noopener"
+            aria-label="Visit twitter page (opens in a new tab)"
+            ><i class="fa-brands fa-twitter"></i>
+          </a>
+        </li>
+        <li>
+          <a
+            href="https://www.linkedin.com/"
+            target="_blank"
+            rel="noopener"
+            aria-label="Visit linkedin page (opens in a new tab)"
+            ><i class="fa-brands fa-linkedin"></i>
+          </a>
+        </li>
+        <li>
+          <a
+            href="https://www.instagram.com/"
+            target="_blank"
+            rel="noopener"
+            aria-label="Visit instagram page (opens in a new tab)"
+            ><i class="fa-brands fa-instagram"></i>
+          </a>
+        </li>
+      </ul>
+    </footer>
+
+  </div>
   <!-- Font Awesome kit -->
     <script src="https://kit.fontawesome.com/cfc7fde0a2.js" crossorigin="anonymous"></script>
   </body>
