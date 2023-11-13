@@ -97,7 +97,6 @@ main {
 #side-listing{
 	 height: 600px;
 	 width:200px;
-    /*width: 100%;*/
     position:relative;
     
 }
@@ -115,7 +114,6 @@ main {
     position: absolute;
     bottom: 30px;
     width: 200px;
-    /*min-height: 200px;*/
     padding-top: 40px;
     padding-left: 10px;
 }
@@ -137,16 +135,11 @@ main {
 }
 
 #main-content-text h2{
-	/*margin-top: 47px;
-	margin-left: 200px;*/
 	color: #000000;
 }
 	
 #main-content-text{
-	
 	color: #000000;
-	
-	
 }
 
 /* media query: tablets and larger (768px and up) */
@@ -163,6 +156,7 @@ main {
 
     #menu {
         display: flex;
+        
     }
 
     #menu>li {
@@ -173,6 +167,7 @@ main {
         display: none;
     }
 
+	
     
 }
 

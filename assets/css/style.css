@@ -89,7 +89,7 @@ nav {
 
 /* main content*/
 main {
-   margin-top:-20px;
+   margin-top:-40px;
     
 }
 
@@ -156,6 +156,7 @@ main {
 
     #menu {
         display: flex;
+        
     }
 
     #menu>li {
@@ -166,6 +167,9 @@ main {
         display: none;
     }
 
+	main {
+   	margin-top:-20px;
+   }
     
 }
 
