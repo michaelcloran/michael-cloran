@@ -1,11 +1,15 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-US">
   <head>
     
-    <meta charset="UTF-8">
-	<title>Michael Cloran</title>    
-    <style></style>
+   <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- meta for search engines -->
+    <meta name="description" content="Michael Cloran, curriculum Vitae, CV, CV webpage, CV website">
+    <meta name="keywords" content="Michael Cloran, CV, Information, Curriculum Vitae">
     
+	<title>Michael Cloran</title>    
+        
      <!-- sylesheet-->
     <link rel="stylesheet" href="assets/css/style.css" >
   </head>
@@ -54,7 +58,9 @@
 			<p>This book introduces the reader to several futuristic technologies as ideas in order to interest the reader and to possibly 
 			setup a scenario where the ideas can be brought from idea into a reality. For example a Holodeck with smell, touch, temperature,
 			 weight and visuals or a crude food replicator which works by forging atoms which make up molecules which form molecular strands 
-			 which form food. Crude transporter technology is quickly covered and more.</p><br><img src="assets/images/factorfictionyoudecide1.jpg" alt=""><img src="assets/images/factorfictionyoudecide2.jpg" alt="">
+			 which form food. Crude transporter technology is quickly covered and more.</p>
+			 <br>
+			 <img src="assets/images/factorfictionyoudecide1.jpg" alt=""><img src="assets/images/factorfictionyoudecide2.jpg" alt="">
 	
 			<h1 id="theholodeck">The Holodeck A Specification</h1>
 			<p>This book is about a requirements specification for a Holodeck at a proof of concept level. 
@@ -63,7 +69,8 @@
 			the datacenter and for a personal Holodeck. I describe Volumetrics in brief and show how its evolution to Holodeck volumetrics could 
 			be done with bend light technology and the possibility of solidness to touch. I describe in detail the architecture of a Holodeck 
 			covering several approaches to Holodecks from static scene to scrolling scene to multi-user same complex to networked multi-user Holodecks.</p>
-			<br><img src="assets/images/theholodeck.jpg" alt="">
+			<br>
+			<img src="assets/images/theholodeck.jpg" alt="">
 		</div>
 	</section>
   </main>

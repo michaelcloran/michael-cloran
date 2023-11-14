@@ -1,11 +1,15 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-US">
   <head>
     
     <meta charset="UTF-8">
-	<title>Michael Cloran</title>    
-    <style></style>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- meta for search engines -->
+    <meta name="description" content="Michael Cloran, curriculum Vitae, CV, CV webpage, CV website">
+    <meta name="keywords" content="Michael Cloran, CV, Information, Curriculum Vitae">
     
+	<title>Michael Cloran</title>    
+        
      <!-- sylesheet-->
     <link rel="stylesheet" href="assets/css/style.css" >
   </head>
@@ -49,9 +53,9 @@
 	</section>   
 	<section id="main-content">
 		<div id="main-content-text">
-		<h1>Education</h1>
+		<h1>>Education</h1>
 		<hr>
-			<table>
+			<table id="education">
 				<tr>
 					<th></th>		
 					<th></th>
