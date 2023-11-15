@@ -54,6 +54,26 @@ Michael Cloran.
 * Featured on all four pages, the fully responsive naviagtion bar includes links to Home page, education , books and contact pages.
 * The navigation bar will allow a user to easily navigate around the website.
 
+![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/aad45245-bc4c-483b-b0f5-bf7040e34e46)
+
+### - The landing page
+
+ - The landing page is broken down into four areas
+   1. the page header with the navigation
+   2. the side bar
+   3. the main area
+   4. the footer
+   <br>
+where <br>
+   1 is for the navigation and is present on all pages (Home, Education, Books and Contact). <br>
+   2. the side bar is for a quick briefing about skills and a picture of Michael Cloran.<br>
+   3. the main area is where on the index/Home file will have a quick summary and then employment history. On Education
+      this will have a table with education history on it. On books page the main content will be about books written by
+      Michael Cloran. Last but not least the contact will have the main area as a contact form.<br>
+   4. The footer is used for links to social media outlets.<br>
+
+   
+
 
 
 
