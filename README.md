@@ -64,13 +64,13 @@ Michael Cloran.
    3. the main area
    4. the footer
    <br>
-where
-   *. is for the navigation and is present on all pages (Home, Education, Books and Contact"
-   *. the side bar is for a quick briefing about skills and a picture of Michael Cloran
-   *. the main area is where on the index/Home file will have a quick summary and then employment history. On Education
+where <br>
+   1 is for the navigation and is present on all pages (Home, Education, Books and Contact"
+   2. the side bar is for a quick briefing about skills and a picture of Michael Cloran
+   3. the main area is where on the index/Home file will have a quick summary and then employment history. On Education
       this will have a table with education history on it. On books page the main content will be about books written by
       Michael Cloran. Last but not least the contact will have the main area as a contact form.
-   *. The footer is used for links to social media outlets.
+   4. The footer is used for links to social media outlets.
 
    
 
