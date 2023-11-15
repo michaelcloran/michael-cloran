@@ -95,7 +95,7 @@ where <br>
   <br>
 
   <br>
-  ### Contact page
+ ### Contact page
 
   - The Contact page is to be used as a avenue for a possability to contact Michael Cloran. It is not server side ready just yet
     so when the user clicks on submit the form reads back the contents of the message. Note that the all form fields are required
