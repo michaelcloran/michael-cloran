@@ -68,12 +68,15 @@ where <br>
    1 is for the navigation and is present on all pages (Home, Education, Books and Contact). <br>
    2. the side bar is for a quick briefing about skills and a picture of Michael Cloran.<br>
    ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/6df2293b-addf-46e2-8af2-1b505f259147)
+<br>
 
-   3. the main area is where on the index/Home file will have a quick summary and then employment history.<br>
+   4. the main area is where on the index/Home file will have a quick summary and then employment history.<br>
       ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/dc189cc6-7fd4-47f5-b3dc-ba578c19a9f2)
+      <br>
 
-   4. The footer is used for links to social media outlets.<br>
+   6. The footer is used for links to social media outlets.<br>
    ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/b2a8263e-6da8-4628-bb8e-21f5f3303fc5)
+<br>
 
 <br>
 ### - Education page
@@ -81,6 +84,7 @@ where <br>
 - The Education page is again broken down into four area as before but this time in the main area a table of education history
  is present.
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/e0224714-658c-492a-96d2-8410d494cf9c)
+<br>
 
 <br>
 ### - Books page
@@ -88,6 +92,7 @@ where <br>
 - The books page is again broken down into four areas and in the main area a list of books written by Michael Cloran
   is present and a picture of each book is also shown.
   ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/5ca0e838-db18-44d9-ba72-229bfed3bf52)
+  <br>
 
   <br>
   ### Contact page
@@ -97,6 +102,7 @@ where <br>
     for the form to submit.
 
     ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/82c6f7f4-6cb3-4fcb-905a-7371f09b4cd9)
+    
 
     <br>
 
