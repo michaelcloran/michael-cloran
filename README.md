@@ -106,15 +106,16 @@ where <br>
 
     <br>
 
-  ## Testing
-    On Google Chrome and Firefox it is possible to test the code on different virtual devices. The screen grab below
-    shows the website on the IPhone SE. I have with this tool tested the website on all devices present in Google Chrome
-    and got reasonably good results.<br>
+## Testing
+On Google Chrome and Firefox it is possible to test the code on different virtual devices. The screen grab below
+shows the website on the IPhone SE. I have with this tool tested the website on all devices present in Google Chrome
+and got reasonably good results.<br>
+    
 
-    ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/b7823705-4ccd-4ee5-8305-f1cca37851f1)
+   ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/b7823705-4ccd-4ee5-8305-f1cca37851f1)
     <br>
 
-    ### validation of code
+### validation of code
     * I have used the HTML validator: https://validator.w3.org and all went well for all html files
     * I have also used the CSS validator: https://jigsaw.w3.org/css-validator and all went well on the styles
 
