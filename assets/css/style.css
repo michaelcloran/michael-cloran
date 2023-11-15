@@ -303,6 +303,13 @@ footer{
         display: none;
     }
 
+	#side-listing{
+	 	height: 580px;
+	 	width:200px;
+   	 position: fixed;
+    	z-index: 99;
+	}
+
 	#side-listing-content{
     	background-color: #000000;
     	top:60px;

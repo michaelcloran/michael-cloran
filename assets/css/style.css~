@@ -249,11 +249,7 @@ footer{
     color: #ffffff;
 }
 
-/* media query: devices larger (280px and up) 
-+++++++++++++++++++++++++++++++++++++++++++
-problems with IPhone SE when it goes into landscape
-and galaxy fold so this code should deal with it
-+++++++++++++++++++++++++++++++++++++++++++
+/* media query: devices larger (650px and up) 
 */
 @media screen and (min-width: 650px) {
 	#side-listing{
