@@ -40,6 +40,24 @@ Happy coding!
 
 # Michael Cloran
 
+This site is about Michael Cloran's professional endeavours and 
+shows the employment history and education and books written by Michael Cloran.
+I have included a contact form which is not server functional at the moment!.
+
+The site is written in Curiculum Vitae format and is for anyone to research about
+Michael Cloran.
+
+## Features
+### Existing Features
+#### - Navigation Bar
+
+* Featured on all four pages, the fully responsive naviagtion bar includes links to Home page, education , books and contact pages.
+* The navigation bar will allow a user to easily navigate around the website.
+
+
+
+
+
 
 Credits
 cvapp.ie CV creation from templates https://cvapp.ie/cv-templates
