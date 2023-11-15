@@ -110,8 +110,8 @@ main > section{
 }
 /* side listing section */
 #side-listing{
-	 height: 600px;
-	 width:200px;
+	 height: 560px;
+	 width:100vw;
     position: fixed;
     z-index: 99;
 }
@@ -124,7 +124,8 @@ main > section{
 
 #side-listing-content{
     background-color: #000000;
-    font-size: 130%;
+    top:170px;
+    font-size: 100%;/* font-size: 130%*/
     position: absolute;
     bottom: 30px;
     width: 100vw;
@@ -234,8 +235,7 @@ footer{
 #social-networks {
 	color: #ffffff;
 	background-color: #000000;
-   text-align: center;
-   /*height: 2vh;*/
+   text-align: center; 
    padding: 5px 0;
     
    display: flex;
@@ -249,8 +249,28 @@ footer{
     color: #ffffff;
 }
 
+/* media query: devices larger (280px and up) */
+@media screen and (min-width: 660px) {
+	#side-listing{
+	 	height: 560px;
+	 	width:200px;
+   	 position: fixed;
+    	z-index: 99;
+	}
+	#side-listing-content{
+    	background-color: #000000;
+    	top:170px;
+    	font-size: 100%;/* font-size: 130%*/
+    	position: absolute;
+    	bottom: 30px;
+    	width: 200px;
+    	padding-top: 20px;
+    	padding-left: 10px;
+	}
+}
+
 /* media query: tablets and larger (768px and up) */
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 700px) {
 
     /* header */
     nav {
@@ -276,6 +296,7 @@ footer{
 
 	#side-listing-content{
     	background-color: #000000;
+    	top:60px;
     	font-size: 130%;
     	position: absolute;
     	bottom: 30px;
