@@ -126,7 +126,11 @@ bar and then clicking on settings. Then on clicking pages on the sidebar and the
 Deploy from branch and for branch choosing main and root and then clicking on save. Once this is done the website will be deployed
 and after a few minutes it will be live on for instance : https://michaelcloran.github.io/michael-cloran/
 
+## Credits
 
+I used a CV appt online to see differnet colours and styles of CV : cvapp.ie CV creation from templates https://cvapp.ie/cv-templates
+
+I have also used w3schools throughout the design and I have used as boilerplate code love-riunning with major modifications.
 
 
    
@@ -136,5 +140,3 @@ and after a few minutes it will be live on for instance : https://michaelcloran.
 
 
 
-Credits
-cvapp.ie CV creation from templates https://cvapp.ie/cv-templates
