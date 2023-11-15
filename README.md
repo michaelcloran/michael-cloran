@@ -111,8 +111,7 @@ On Google Chrome and Firefox it is possible to test the code on different virtua
 shows the website on the IPhone SE. I have with this tool tested the website on all devices present in Google Chrome
 and got reasonably good results.<br>
     
-
-   ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/b7823705-4ccd-4ee5-8305-f1cca37851f1)
+![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/b7823705-4ccd-4ee5-8305-f1cca37851f1)
     <br>
 
 ### validation of code
