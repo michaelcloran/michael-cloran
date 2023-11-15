@@ -63,6 +63,7 @@ Michael Cloran.
    2. the side bar
    3. the main area
    4. the footer
+   <br>
 where
    *. is for the navigation and is present on all pages (Home, Education, Books and Contact"
    *. the side bar is for a quick briefing about skills and a picture of Michael Cloran
