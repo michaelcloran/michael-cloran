@@ -38,5 +38,8 @@ You can now use the `heroku` CLI program - try running `heroku apps` to confirm 
 
 Happy coding!
 
+# Michael Cloran
+
+
 Credits
 cvapp.ie CV creation from templates https://cvapp.ie/cv-templates
