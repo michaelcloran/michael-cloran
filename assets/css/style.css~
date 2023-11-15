@@ -58,7 +58,6 @@ header a {
     font-size: 110%;
     letter-spacing: 4px;
     list-style-type: none;
-    /*z-index:1000;*/
 }
 
 #menu>li {
@@ -79,7 +78,6 @@ nav {
     box-shadow: 0 5px 10px #3a3a3a;
     display: none;
     top: 100%;
-   /* z-index: 99;*/
 }
 
 /* nav toggle*/
@@ -237,7 +235,7 @@ footer{
 	color: #ffffff;
 	background-color: #000000;
    text-align: center;
-   height: 2vh;
+   /*height: 2vh;*/
    padding: 5px 0;
     
    display: flex;
