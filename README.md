@@ -78,15 +78,15 @@ where <br>
    ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/b2a8263e-6da8-4628-bb8e-21f5f3303fc5)
 <br>
 
-<br>
-### - Education page
+
+### Education page
 
 - The Education page is again broken down into four area as before but this time in the main area a table of education history
  is present.
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/e0224714-658c-492a-96d2-8410d494cf9c)
 <br>
 
-<br>
+
 ### - Books page
 
 - The books page is again broken down into four areas and in the main area a list of books written by Michael Cloran
@@ -94,7 +94,7 @@ where <br>
   ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/5ca0e838-db18-44d9-ba72-229bfed3bf52)
   <br>
 
-  <br>
+  
  ### Contact page
 
   - The Contact page is to be used as a avenue for a possability to contact Michael Cloran. It is not server side ready just yet
