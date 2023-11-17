@@ -110,7 +110,7 @@ main > section{
 }
 /* side listing section */
 #side-listing{
-	 height: 530px;
+	 height: 560px;
 	 width:100vw;
 	 left: 0px;
     position: relative;
@@ -125,7 +125,7 @@ main > section{
 
 #side-listing-content{
     background-color: #000000;
-    height: 530px;
+    height: 560px;
     font-size: 100%;/* font-size: 130%*/
     width: 100vw;
     padding-top: 200px;
@@ -242,6 +242,12 @@ hr.goto-top-text-hr{
 }
 
 /* 404 page */
+.not-found{
+	padding-top:220px;
+	width: 100vw;
+	height: 100vh;
+}
+
 .not-found h1, .not-found h2, .not-found p{
 	background-color: #ffffff;
 	color: #000000;
@@ -340,7 +346,7 @@ footer{
     }
 
 	#side-listing{
-	 	height: 530px;
+	 	height: 560px;
 	 	width:200px;
    	 position: fixed;
     	z-index: 99;

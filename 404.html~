@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- meta for search engines -->
+    <meta name="author" content="Michael" >
     <meta name="description" content="Michael Cloran, curriculum Vitae, CV, CV webpage, CV website">
     <meta name="keywords" content="Michael Cloran, CV, Information, Curriculum Vitae">
     
@@ -46,17 +47,6 @@
   </header>
   
   <main>
-	<section id="side-listing">
-		<div id="side-listing-content">
-			<img src="assets/images/Michael_Cloran.png" alt="Image of Michael Cloran">		
-			<h2>Skills</h2>			
-			<p>Java, HTML, C/C++, JavaScript, Python, SQL, Formal report writing, Skills as required.</p>
-			<h2>OS</h2>
-			<p>Linux, Windows</p>
-			<h2>Languages</h2>
-			<p>English, German</p>
-		</div>	
-	</section>  
 	
 	<section id="main-content">
 		<div class="not-found">
