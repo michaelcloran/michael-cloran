@@ -48,7 +48,7 @@ where <br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/e0224714-658c-492a-96d2-8410d494cf9c)
 <br>
 <hr>
-<p align="right"><a  href="#top" >↑ Goto Top</a></p>[Michael Cloran](#top)
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
 ### - Books page
 
@@ -96,6 +96,9 @@ I used a CV appt online to see differnet colours and styles of CV : cvapp.ie CV 
 I have also used w3schools throughout the design and I have used as boilerplate code love-running with major modifications.
 
 I have also used the GitHuB markdown manual.
+
+I have to give a shoutout to the link below as it thought me howto do the Goto Top: 
+https://discourse.devontechnologies.com/t/floating-back-to-top-button-in-markdown-documents/71696
 
 
    
