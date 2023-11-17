@@ -8,18 +8,20 @@
     <meta name="description" content="Michael Cloran, curriculum Vitae, CV, CV webpage, CV website">
     <meta name="keywords" content="Michael Cloran, CV, Information, Curriculum Vitae">
     
-	<title>Michael Cloran</title>  
+	<title>Michael Cloran</title>    
 	
 	<link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
 	<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
 	<link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
-	  
+    
      <!-- sylesheet-->
-    <link rel="stylesheet" href="assets/css/style.css" >
-  </head>
+   <link rel="stylesheet" href="assets/css/style.css" >
+   </head>
   <body>
-  <header>
   
+  <div id="container">
+  
+  <header>
   <a href="index.html">
   	<h1>Michael Cloran</h1>
   </a>
@@ -28,7 +30,7 @@
       <nav>
         <ul id="menu">
           <li>
-            <a href="index.html" >Home</a>
+            <a href="index.html" class="active">Home</a>
           </li>
           <li>
             <a href="education.html">Education</a>
@@ -37,14 +39,14 @@
           	<a href="books.html">Books</a>
           </li>
           <li>
-            <a href="contact.html" class="active">Contact</a>
+            <a href="contact.html">Contact</a>
           </li>
         </ul>
       </nav>
   </header>
   
   <main>
-		<section id="side-listing">
+	<section id="side-listing">
 		<div id="side-listing-content">
 			<img src="assets/images/Michael_Cloran.png" alt="Image of Michael Cloran">		
 			<h2>Skills</h2>			
@@ -54,34 +56,16 @@
 			<h2>Languages</h2>
 			<p>English, German</p>
 		</div>	
-	</section>    
-	 
-	 <section id="main-content">
-		<div id="main-content-text">
-         <form id="contact-form"  action="contact-form-submitted.html" method="POST">
-            <h3>Contact Michael Cloran</h3><hr><br>
-          
-           <label for="first_name">First Name</label>
-           <input type="text" name="first_name" id="first_name" class="text-input" required>
-           <br>
-
-          <label for="last_name">Last Name</label>
-          <input type="text" name="last_name" id="last_name" class="text-input" required>
-          <br>
-
-          <label for="email_address">Email Address</label>
-          <input type="email" name="email_address" id="email_address" class="text-input" required>
-          <br>
-
-          <label for="message">Message</label>
-          <textarea name="message" id="message" rows="10" cols="50"  class="textarea-input" required></textarea>
-          <br>
-
-          <button type="submit" class="contact-button">Submit</button>
-         
-       </form>
-     </div>
-    </section>
+	</section>  
+	
+	<section id="main-content">
+		<div class="contact-info-submitted">
+			<h1>Your details have been submitted</h1>
+			<h2>You will be redirected to the main webpage in 10 seconds</h2>
+			<p><a href="index.html">Return to main page</a></p>			
+		</div>	
+	</section>
+	
   </main>
   
   <!-- footer -->
@@ -126,6 +110,7 @@
       </ul>
     </footer>
 
+  </div><!-- container -->
   <!-- Font Awesome kit -->
     <script src="https://kit.fontawesome.com/cfc7fde0a2.js" crossorigin="anonymous"></script>
   </body>

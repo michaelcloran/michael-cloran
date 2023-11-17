@@ -148,12 +148,24 @@ main > section{
 #main-content-text h2, #main-content-text h1, #main-content-text h3{
 	height: 100%;
 	color: #000000;
+	padding-top:20px;
 }
 	
 #main-content-text{
 	color: #000000;
 }
 
+hr.horizontal-line{
+	border-top: 2px solid blue;
+}
+
+hr.goto-top-text-hr{
+	border-top: 1px solid blue;
+}
+
+.goto-top-text{
+	float: right;
+}
 #main-content-text ol{
 	margin-left: 30px;;
 	
@@ -230,7 +242,11 @@ main > section{
 	text-align: center;
 }
 
-
+.contact-info-submitted h1, .contact-info-submitted h2, .contact-info-submitted p{
+	background-color: #ffffff;
+	color: #000000;
+	text-align: center;
+}
 /* footer */
 footer{
 	position: fixed;
