@@ -223,6 +223,14 @@ main > section{
     color: #454b1b;
 }
 
+/* 404 page */
+.not-found h1, .not-found h2, .not-found p{
+	background-color: #ffffff;
+	color: #000000;
+	text-align: center;
+}
+
+
 /* footer */
 footer{
 	position: fixed;

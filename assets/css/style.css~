@@ -113,7 +113,7 @@ main > section{
 	 height: 560px;
 	 width:100vw;
 	 left: 0px;
-    position: relative;/*fixed */
+    position: relative;
     z-index: 99;
 }
 
@@ -222,6 +222,13 @@ main > section{
     background-color: #fafafa;
     color: #454b1b;
 }
+
+.not-found h1, .not-found h2, .not-found p{
+	background-color: #ffffff;
+	color: #000000;
+	text-align: center;
+}
+
 
 /* footer */
 footer{
