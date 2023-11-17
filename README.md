@@ -95,6 +95,8 @@ I used a CV appt online to see differnet colours and styles of CV : cvapp.ie CV 
 
 I have also used w3schools throughout the design and I have used as boilerplate code love-running with major modifications.
 
+I have also used the GitHuB markdown manual.
+
 
    
 
