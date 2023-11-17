@@ -48,7 +48,7 @@ where <br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/e0224714-658c-492a-96d2-8410d494cf9c)
 <br>
 <hr>
-<a class="top-link hide" href="#top" align="right">↑ Goto Top</a>
+<p align="right"><a class="top-link hide" href="#top" >↑ Goto Top</a></p>
 
 ### - Books page
 
