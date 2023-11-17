@@ -42,7 +42,7 @@ header {
     padding: 0 1rem;
     position: fixed;
     z-index: 1000;
-    width: 100%;
+    width: 100vw;/*100%*/
     box-shadow: 0 5px 10px #3a3a3a;
     display: flex;
     justify-content: space-between;
@@ -248,8 +248,13 @@ hr.goto-top-text-hr{
 	text-align: center;
 }
 
+.contact-info-submitted{
+	width: 100vw;
+	height: 100vh;
+	float: center;
+}
+
 .contact-info-submitted h1, .contact-info-submitted h2, .contact-info-submitted p{
-	left: -80px;
 	padding-top: 100px;
 	background-color: #ffffff;
 	color: #000000;

@@ -42,7 +42,7 @@ header {
     padding: 0 1rem;
     position: fixed;
     z-index: 1000;
-    width: 100%;
+    width: 100vw;
     box-shadow: 0 5px 10px #3a3a3a;
     display: flex;
     justify-content: space-between;
