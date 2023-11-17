@@ -45,7 +45,8 @@ where <br>
  is present.
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/e0224714-658c-492a-96d2-8410d494cf9c)
 <br>
-[!Goto Top](#Michael Cloran)
+<a class="top-link hide" href="#top">↑</a>
+<a name="top"></a>
 
 ### - Books page
 
