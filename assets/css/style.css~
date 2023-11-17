@@ -160,7 +160,7 @@ hr.horizontal-line{
 }
 
 hr.goto-top-text-hr{
-	border-bottom: 1px solid blue;
+	border-top: 1px solid blue;
 }
 
 .goto-top-text{

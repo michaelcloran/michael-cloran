@@ -166,8 +166,14 @@ hr.goto-top-text-hr{
 .goto-top-text{
 	float: right;
 }
+
+#main-content-text p{
+	padding-bottom: 30px;
+	
+}
+
 #main-content-text ol{
-	margin-left: 30px;;
+	margin-left: 30px;
 	
 }
 
