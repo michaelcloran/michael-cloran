@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 # Michael Cloran
 
 This site is about Michael Cloran's professional endeavours and 
@@ -46,7 +48,6 @@ where <br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/e0224714-658c-492a-96d2-8410d494cf9c)
 <br>
 <a class="top-link hide" href="#top">↑</a>
-<a name="top"></a>
 
 ### - Books page
 
