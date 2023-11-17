@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- meta for search engines -->
+    <meta name="author" content="Michael" >
     <meta name="description" content="Michael Cloran, curriculum Vitae, CV, CV webpage, CV website">
     <meta name="keywords" content="Michael Cloran, CV, Information, Curriculum Vitae">
     
@@ -118,7 +119,7 @@
 			<h4>Clane College</h4>
 			<h4>Apr 12 -> Jul 13 Full Time Remote</h4>
 			<p>Designed from Initial report from scratch an Object Oriented exam management,creation and delivery based system with</p>
-			<br>			
+						
 			<ol>
 				<li>Student management.</li>
 				<li>Training centers building, floor and room management.</li>
@@ -152,7 +153,7 @@
 			<h4>Tara Hill National Park</h4>
 			<h4>Apr 10 -> Sept 11 Gorey Enterprise Center in office Full Time</h4>
 			<p>A sole trader accountancy web based application consisting of 2 parts</p>
-			<br>
+			
 			<ol>
 				<li>A Joomla based Frontoffice system for data input where only a skeleton of data is held</li>
 				<li>A backoffice multithreaded multiworker thread report generation server which via requests from frontoffice can move data from frontoffice to backoffice 
