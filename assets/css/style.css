@@ -112,24 +112,23 @@ main > section{
 #side-listing{
 	 height: 560px;
 	 width:100vw;
-    position: fixed;
+	 left: 0px;
+    position: relative;
     z-index: 99;
 }
 
 #side-listing img{
 	display: block;
-  margin-left: auto;
-  margin-right: auto;
+   margin-left: auto;
+   margin-right: auto;
 }
 
 #side-listing-content{
     background-color: #000000;
-    top:170px;
+    height: 560px;
     font-size: 100%;/* font-size: 130%*/
-    position: absolute;
-    bottom: 30px;
     width: 100vw;
-    padding-top: 20px;
+    padding-top: 200px;
     padding-left: 10px;
 }
 
