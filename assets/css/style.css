@@ -248,7 +248,14 @@ hr.goto-top-text-hr{
 	text-align: center;
 }
 
+.contact-info-submitted{
+	width: 100vw;
+	height: 100vh;
+	float: center;
+}
+
 .contact-info-submitted h1, .contact-info-submitted h2, .contact-info-submitted p{
+	padding-top: 100px;
 	background-color: #ffffff;
 	color: #000000;
 	text-align: center;

@@ -136,12 +136,11 @@ main > section{
     color: #ffffff;
 }
 
-/* main content section*/
+/* main content section */
 #main-content{
 	margin-left:10px;
 	top:-20px;
 	left:10px;
-	/*top:600px;*/
 	width: 75%;
 	height: 100%;
 }
@@ -250,6 +249,8 @@ hr.goto-top-text-hr{
 }
 
 .contact-info-submitted h1, .contact-info-submitted h2, .contact-info-submitted p{
+	left: -80px;
+	padding-top: 100px;
 	background-color: #ffffff;
 	color: #000000;
 	text-align: center;
