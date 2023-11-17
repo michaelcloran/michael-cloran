@@ -98,7 +98,7 @@ where <br>
  ### Contact page
 
   - The Contact page is to be used as a avenue for a possability to contact Michael Cloran. It is not server side ready just yet
-    so when the user clicks on submit the form reads back the contents of the message. Note that the all form fields are required
+    so when the user clicks on submit the form reads back the contents of the message. Note that all form fields are required
     for the form to submit.
 
     ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/82c6f7f4-6cb3-4fcb-905a-7371f09b4cd9)
