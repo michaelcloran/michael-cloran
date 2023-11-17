@@ -253,6 +253,7 @@ hr.goto-top-text-hr{
 	color: #000000;
 	text-align: center;
 }
+
 /* contactsubmitted form */
 .contact-info-submitted{
 	width: 100vw;
