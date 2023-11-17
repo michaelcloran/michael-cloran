@@ -110,7 +110,7 @@ main > section{
 }
 /* side listing section */
 #side-listing{
-	 /*height: 560px;*/
+	 height: 560px;
 	 width:100vw;
 	 left: 0px;
     position: relative;
@@ -340,7 +340,7 @@ footer{
     }
 
 	#side-listing{
-	 	height: 580px;
+	 	height: 560px;
 	 	width:200px;
    	 position: fixed;
     	z-index: 99;
