@@ -113,7 +113,7 @@ where <br>
 <hr>
 <p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
-## Testing
+## - Testing
 On Google Chrome, Firefox and Microsoft Edge it is possible to test the code on different virtual devices. The screen grab below
 shows the website on the IPhone SE. I have with this tool tested the website on all devices present in Google Chrome, Firefox and Microsoft Edge
 and got reasonably good results.I have also tested it on my Mobile and got good results<br>
@@ -123,9 +123,19 @@ and got reasonably good results.I have also tested it on my Mobile and got good 
 <hr>
 <p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
-### validation of code
+### - validation of code
     * I have used the HTML validator: https://validator.w3.org and all went well for all html files
     * I have also used the CSS validator: https://jigsaw.w3.org/css-validator and all went well on the styles
+
+<hr>
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
+
+## - Existing Features
+* Responsive design for Desktop or Mobile
+* Contact form and sucess page
+
+## - Features left to implement
+* To enable the contact form to be submitted to the server where a script could run and send an email to Michael Cloran.
 
 <hr>
 <p align="right"><a  href="#top" >↑ Goto Top</a></p>
