@@ -13,10 +13,16 @@ Michael Cloran.
 ### Existing Features
 #### - Navigation Bar
 
-* Featured on all four pages, the fully responsive naviagtion bar includes links to Home page, education , books and contact pages.
+* Featured on all six pages, the fully responsive naviagtion bar includes links to Home page, education , books and contact pages its also on the 404.html page and the contact form redirect for form submitted.
 * The navigation bar will allow a user to easily navigate around the website.
 
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/aad45245-bc4c-483b-b0f5-bf7040e34e46)
+
+*Footer
+* This is where the user can link to Michaels social media. Icons are accessible to the visually impared via aria-labels.
+
+  ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/635a7bd4-7e9e-4012-a85d-ca848546653a)
+
 
 ### - The landing page
 
