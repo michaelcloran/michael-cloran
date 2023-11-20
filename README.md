@@ -21,7 +21,7 @@ Michael Cloran.
 <hr>
 <p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
-#### - Footer
+### - Footer
 * This is where the user can link to Michaels social media. Icons are accessible to the visually impared via aria-labels.
 
   ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/635a7bd4-7e9e-4012-a85d-ca848546653a)
