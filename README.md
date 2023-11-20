@@ -105,7 +105,8 @@ where <br>
     ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/82c6f7f4-6cb3-4fcb-905a-7371f09b4cd9)
 
     <br>
-    - Contact form submitted redirect
+    
+    #### - Contact form submitted redirect
     
     ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/66809e96-0147-419c-aea1-f13c415f199f)
 
