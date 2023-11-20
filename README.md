@@ -33,7 +33,8 @@ Michael Cloran.
  * It allows the user to easily navigate back to the site.
 
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/bb1ca315-4900-41b7-b1f1-1d00f555e096)
-
+<hr>
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
     
 ### - The landing page
@@ -63,7 +64,8 @@ where <br>
    4. The footer is used for links to social media outlets.<br>
    ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/b2a8263e-6da8-4628-bb8e-21f5f3303fc5)
 <br>
-
+<hr>
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
 ### Education page
 
@@ -80,7 +82,8 @@ where <br>
   is present and a picture of each book is also shown.
   ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/5ca0e838-db18-44d9-ba72-229bfed3bf52)
   <br>
-
+<hr>
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
   
  ### Contact page
 
@@ -97,7 +100,8 @@ where <br>
     ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/66809e96-0147-419c-aea1-f13c415f199f)
 
     <br>
-
+<hr>
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
 ## Testing
 On Google Chrome, Firefox and Microsoft Edge it is possible to test the code on different virtual devices. The screen grab below
@@ -106,10 +110,15 @@ and got reasonably good results.I have also tested it on my Mobile and got good 
     
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/b7823705-4ccd-4ee5-8305-f1cca37851f1)
     <br>
+<hr>
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
 ### validation of code
     * I have used the HTML validator: https://validator.w3.org and all went well for all html files
     * I have also used the CSS validator: https://jigsaw.w3.org/css-validator and all went well on the styles
+
+<hr>
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
 ## Deployment
 The site was Deployed to GitHub.
@@ -119,6 +128,8 @@ bar and then clicking on settings. Then on clicking pages on the sidebar and the
 Deploy from branch and for branch choosing main and root and then clicking on save. Once this is done the website will be deployed
 and after a few minutes it will be live on for instance : https://michaelcloran.github.io/michael-cloran/
 
+<hr>
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
 ## Credits
 
 I used a CV appt online to see different colours and styles of CV : cvapp.ie CV creation from templates https://cvapp.ie/cv-templates
@@ -130,45 +141,83 @@ I have also used the GitHuB markdown manual.
 I have to give a shoutout to the link below as it thought me howto do the Goto Top: 
 https://discourse.devontechnologies.com/t/floating-back-to-top-button-in-markdown-documents/71696
 
+<br>
+<hr>
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
+
 # Wireframes
 Home<br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/c4e258d8-81d5-4471-b00c-4485eb92f617)
+<br>
+<hr>
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
 Home mobile<br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/98108be3-1932-4ba6-909a-9fa3759af8b3)
-
+<br>
+<hr>
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
 Education<br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/91eb1fda-6fc5-4e0f-bfcc-81fdcde3ad05)
+<br>
+<hr>
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
 Education Mobile<br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/1625fecb-8b8d-4ce3-856d-ba1e8035ec54)
+<br>
+<hr>
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
 Books<br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/d600a0c3-4a5f-4add-a161-d189903b834b)
+<br>
+<hr>
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
+
 
 Books Mobile<br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/1377b17c-4eea-4907-8475-31250a5abe65)
+<br>
+<hr>
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
 Contact<br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/f5e745c7-24ea-4482-92e9-4318e456c9cd)
+<br>
+<hr>
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
 Contact Mobile<br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/996dcabe-492a-4f50-a66e-202c946bc9e3)
+<br>
+<hr>
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
 404.html<br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/a317b469-c87f-4c49-add5-e48d8e052ed3)
-
+<br>
+<hr>
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
 404.html Mobile<br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/846e6a5c-bae2-4f13-8418-0bf51cff7533)
+<br>
+<hr>
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
 Contact form submitted<br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/b4fd646f-bcfa-4883-8af3-f6f74ee6309b)
+<br>
+<hr>
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
 Contact form submitted mobile<br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/df27b57f-51a1-492a-8255-40f365107df5)
-
+<br>
+<hr>
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
 
    
