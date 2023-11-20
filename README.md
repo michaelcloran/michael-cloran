@@ -100,9 +100,9 @@ where <br>
 
 
 ## Testing
-On Google Chrome and Firefox it is possible to test the code on different virtual devices. The screen grab below
-shows the website on the IPhone SE. I have with this tool tested the website on all devices present in Google Chrome
-and got reasonably good results.<br>
+On Google Chrome, Firefox and Microsoft Edge it is possible to test the code on different virtual devices. The screen grab below
+shows the website on the IPhone SE. I have with this tool tested the website on all devices present in Google Chrome, Firefox and Microsoft Edge
+and got reasonably good results.I have also tested it on my Mobile and got good results<br>
     
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/b7823705-4ccd-4ee5-8305-f1cca37851f1)
     <br>
@@ -114,7 +114,7 @@ and got reasonably good results.<br>
 ## Deployment
 The site was Deployed to GitHub.
 
-THis was done by logging into GitHub, then choosing a repository michael-cloran then navigating to settings on the menu
+This was done by logging into GitHub, then choosing a repository michael-cloran then navigating to settings on the menu
 bar and then clicking on settings. Then on clicking pages on the sidebar and then on Build and deployment clicking on 
 Deploy from branch and for branch choosing main and root and then clicking on save. Once this is done the website will be deployed
 and after a few minutes it will be live on for instance : https://michaelcloran.github.io/michael-cloran/
@@ -131,42 +131,42 @@ I have to give a shoutout to the link below as it thought me howto do the Goto T
 https://discourse.devontechnologies.com/t/floating-back-to-top-button-in-markdown-documents/71696
 
 # Wireframes
-Home
+Home<br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/c4e258d8-81d5-4471-b00c-4485eb92f617)
 
-Home mobile
+Home mobile<br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/98108be3-1932-4ba6-909a-9fa3759af8b3)
 
 
-Education
+Education<br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/91eb1fda-6fc5-4e0f-bfcc-81fdcde3ad05)
 
-Education Mobile
+Education Mobile<br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/1625fecb-8b8d-4ce3-856d-ba1e8035ec54)
 
-books
+Books<br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/d600a0c3-4a5f-4add-a161-d189903b834b)
 
-Books Mobile
+Books Mobile<br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/1377b17c-4eea-4907-8475-31250a5abe65)
 
-Contact
+Contact<br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/f5e745c7-24ea-4482-92e9-4318e456c9cd)
 
-Contact Mobile
+Contact Mobile<br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/996dcabe-492a-4f50-a66e-202c946bc9e3)
 
-404.html
+404.html<br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/a317b469-c87f-4c49-add5-e48d8e052ed3)
 
 
-404.html Mobile
+404.html Mobile<br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/846e6a5c-bae2-4f13-8418-0bf51cff7533)
 
-Contact form submitted
+Contact form submitted<br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/b4fd646f-bcfa-4883-8af3-f6f74ee6309b)
 
-Contact form submitted mobile
+Contact form submitted mobile<br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/df27b57f-51a1-492a-8255-40f365107df5)
 
 
