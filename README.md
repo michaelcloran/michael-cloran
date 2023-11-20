@@ -25,17 +25,24 @@ Michael Cloran.
 * This is where the user can link to Michaels social media. Icons are accessible to the visually impared via aria-labels.
 
   ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/635a7bd4-7e9e-4012-a85d-ca848546653a)
+<br>
+<hr>
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
-* Favicon
+### - Favicon
 * The Favicon is a fun icon. It allows easy visualisation of the site via an icon display in the browser tab which enables easy finding of the tab.
 
   ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/65109b96-d6b1-4ea0-936f-1ff9513c9b5c)
+<br>
+<hr>
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
- * 404 page
+### - 404 page
  * A 404 page is present so when a user navigates to a broken link it will allow an avenue to recover.
  * It allows the user to easily navigate back to the site.
 
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/bb1ca315-4900-41b7-b1f1-1d00f555e096)
+<br>
 <hr>
 <p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
