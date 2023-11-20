@@ -140,6 +140,7 @@ and after a few minutes it will be live on for instance : https://michaelcloran.
 
 <hr>
 <p align="right"><a  href="#top" >↑ Goto Top</a></p>
+
 ## Credits
 
 I used a CV appt online to see different colours and styles of CV : cvapp.ie CV creation from templates https://cvapp.ie/cv-templates
