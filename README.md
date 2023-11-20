@@ -121,7 +121,7 @@ and after a few minutes it will be live on for instance : https://michaelcloran.
 
 ## Credits
 
-I used a CV appt online to see differnet colours and styles of CV : cvapp.ie CV creation from templates https://cvapp.ie/cv-templates
+I used a CV appt online to see different colours and styles of CV : cvapp.ie CV creation from templates https://cvapp.ie/cv-templates
 
 I have also used w3schools throughout the design and I have used as boilerplate code love-running with major modifications.
 
