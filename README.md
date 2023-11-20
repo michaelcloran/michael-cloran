@@ -83,7 +83,7 @@ where <br>
  ### Contact page
 
   - The Contact page is to be used as a avenue for a possability to contact Michael Cloran. It is not server side ready just yet
-    so when the user clicks on submit the form reads back the contents of the message and redirects to a form submitted page which acknowledges the submission of the form and tells the user
+    so when the user clicks on submit the form it redirects to a form submitted page which acknowledges the submission of the form and tells the user
     that they will be redirected to the Home page in 10 seconds. It also has the ability to manually link to the home page via a link. Note that all form fields are required
     for the form to submit.
 
