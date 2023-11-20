@@ -146,74 +146,73 @@ https://discourse.devontechnologies.com/t/floating-back-to-top-button-in-markdow
 <p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
 # Wireframes
-Home<br>
+## Home<br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/c4e258d8-81d5-4471-b00c-4485eb92f617)
 <br>
 <hr>
 <p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
-Home mobile<br>
+## Home mobile<br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/98108be3-1932-4ba6-909a-9fa3759af8b3)
 <br>
 <hr>
 <p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
-Education<br>
+## Education<br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/91eb1fda-6fc5-4e0f-bfcc-81fdcde3ad05)
 <br>
 <hr>
 <p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
-Education Mobile<br>
+## Education Mobile<br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/1625fecb-8b8d-4ce3-856d-ba1e8035ec54)
 <br>
 <hr>
 <p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
-Books<br>
+## Books<br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/d600a0c3-4a5f-4add-a161-d189903b834b)
 <br>
 <hr>
 <p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
-
-Books Mobile<br>
+## Books Mobile<br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/1377b17c-4eea-4907-8475-31250a5abe65)
 <br>
 <hr>
 <p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
-Contact<br>
+## Contact<br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/f5e745c7-24ea-4482-92e9-4318e456c9cd)
 <br>
 <hr>
 <p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
-Contact Mobile<br>
+## Contact Mobile<br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/996dcabe-492a-4f50-a66e-202c946bc9e3)
 <br>
 <hr>
 <p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
-404.html<br>
+## 404.html<br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/a317b469-c87f-4c49-add5-e48d8e052ed3)
 <br>
 <hr>
 <p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
-404.html Mobile<br>
+## 404.html Mobile<br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/846e6a5c-bae2-4f13-8418-0bf51cff7533)
 <br>
 <hr>
 <p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
-Contact form submitted<br>
+## Contact form submitted<br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/b4fd646f-bcfa-4883-8af3-f6f74ee6309b)
 <br>
 <hr>
 <p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
-Contact form submitted mobile<br>
+## Contact form submitted mobile<br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/df27b57f-51a1-492a-8255-40f365107df5)
 <br>
 <hr>
