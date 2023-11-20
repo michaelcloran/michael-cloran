@@ -49,7 +49,7 @@ Michael Cloran.
    4. the footer
    <br>
 where <br>
-   1 is for the navigation and is present on all pages (Home, Education, Books and Contact). <br>
+   1 is for the navigation and is present on all pages (Home, Education, Books, 404,form submitted redirect page and Contact). <br>
    2. the side bar is for a quick briefing about skills and a picture of Michael Cloran.<br>
    ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/6df2293b-addf-46e2-8af2-1b505f259147)
 <br>
