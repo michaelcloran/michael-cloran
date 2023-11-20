@@ -17,6 +17,9 @@ Michael Cloran.
 * The navigation bar will allow a user to easily navigate around the website.
 
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/aad45245-bc4c-483b-b0f5-bf7040e34e46)
+<br>
+<hr>
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
 #### - Footer
 * This is where the user can link to Michaels social media. Icons are accessible to the visually impared via aria-labels.
