@@ -38,6 +38,10 @@ Michael Cloran.
     
 ### - The landing page
 
+![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/4b6bc691-0b9b-4515-a2d3-436d397f93bb)
+<br>
+
+
  - The landing page is broken down into four areas
    1. the page header with the navigation
    2. the side bar
@@ -50,11 +54,11 @@ where <br>
    ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/6df2293b-addf-46e2-8af2-1b505f259147)
 <br>
 
-   4. the main area is where on the index/Home file will have a quick summary and then employment history.<br>
+   3. the main area is where on the index/Home file will have a quick summary and then employment history.<br>
       ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/dc189cc6-7fd4-47f5-b3dc-ba578c19a9f2)
       <br>
 
-   6. The footer is used for links to social media outlets.<br>
+   4. The footer is used for links to social media outlets.<br>
    ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/b2a8263e-6da8-4628-bb8e-21f5f3303fc5)
 <br>
 
