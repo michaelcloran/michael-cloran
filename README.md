@@ -55,7 +55,8 @@ where <br>
 <br>
 
    3. the main area is where on the index/Home file will have a quick summary and then employment history.Notice the horizonal lines in blue and the pading between entries aswell as the goto top which reloads the page so the user quickly goes to the top of the page.<br>
-      ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/03438060-34da-44c7-b276-25510c79c6cd)
+      ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/40bef94a-5e23-476c-9451-99d6042b414b)
+
 
       <br>
 
