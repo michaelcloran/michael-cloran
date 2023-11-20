@@ -54,8 +54,9 @@ where <br>
    ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/6df2293b-addf-46e2-8af2-1b505f259147)
 <br>
 
-   3. the main area is where on the index/Home file will have a quick summary and then employment history.<br>
-      ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/dc189cc6-7fd4-47f5-b3dc-ba578c19a9f2)
+   3. the main area is where on the index/Home file will have a quick summary and then employment history.Notice the horizonal lines in blue and the pading between entries aswell as the goto top which reloads the page so the user quickly goes to the top of the page.<br>
+      ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/03438060-34da-44c7-b276-25510c79c6cd)
+
       <br>
 
    4. The footer is used for links to social media outlets.<br>
