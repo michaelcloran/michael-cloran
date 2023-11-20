@@ -18,12 +18,17 @@ Michael Cloran.
 
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/aad45245-bc4c-483b-b0f5-bf7040e34e46)
 
-*Footer
+* Footer
 * This is where the user can link to Michaels social media. Icons are accessible to the visually impared via aria-labels.
 
   ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/635a7bd4-7e9e-4012-a85d-ca848546653a)
 
+* Favicon
+* The Favicon is a fun icon. It allows easy visualisation of the site via an icon display in the browser tab which enables easy finding of the tab.
 
+  ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/65109b96-d6b1-4ea0-936f-1ff9513c9b5c)
+
+  
 ### - The landing page
 
  - The landing page is broken down into four areas
