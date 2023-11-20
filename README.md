@@ -18,7 +18,7 @@ Michael Cloran.
 
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/aad45245-bc4c-483b-b0f5-bf7040e34e46)
 
-* Footer
+#### - Footer
 * This is where the user can link to Michaels social media. Icons are accessible to the visually impared via aria-labels.
 
   ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/635a7bd4-7e9e-4012-a85d-ca848546653a)
@@ -67,7 +67,7 @@ where <br>
 <hr>
 <p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
-### Education page
+### - Education page
 
 - The Education page is again broken down into four area as before but this time in the main area a table of education history
  is present.
@@ -85,7 +85,7 @@ where <br>
 <hr>
 <p align="right"><a  href="#top" >↑ Goto Top</a></p>
   
- ### Contact page
+ ### - Contact page
 
   - The Contact page is to be used as a avenue for a possability to contact Michael Cloran. It is not server side ready just yet
     so when the user clicks on submit the form it redirects to a form submitted page which acknowledges the submission of the form and tells the user
