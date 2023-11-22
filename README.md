@@ -7,7 +7,7 @@ shows the employment history and education and books written by Michael Cloran.
 I have included a contact form which is not server functional at the moment!.
 
 The site is written in Curiculum Vitae format and is for anyone to research about
-Michael Cloran.
+Michael Cloran.<a href="https://michaelcloran.github.io/michael-cloran">CV here</a>
 
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/f76352cf-c163-4576-95bb-2b729de01b14)
 <br>
@@ -382,6 +382,8 @@ I have also used the GitHuB markdown manual.
 
 I have to give a shoutout to the link below as it thought me howto do the Goto Top: 
 https://discourse.devontechnologies.com/t/floating-back-to-top-button-in-markdown-documents/71696
+
+I also used for a hidden label on the nav-bar for accessability: https://medium.com/web-accessibility-tips-tricks-and-techniques-for/web-accessibility-tip-visually-hidden-text-for-screen-readers-a52d954d9711
 
 <br>
 <hr>
