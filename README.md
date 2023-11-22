@@ -351,10 +351,12 @@ it highlights the input field and gives and gives an error message<br>
  ## Deployment
  - Version control
    This site was created using Blue Fish web developer tools where a commit would be done by logging onto the server Apache 2 local sandbox
-   and opening a terminal in the root directory of the website
-     1. a git add . would be done to add files
-     2. a git commit -m "message"
-     3. a git push to push the local to remote reposotiory
+   and opening a terminal in the root directory of the website<br>
+   
+     1 a git add . would be done to add files
+     2 a git commit -m "message"
+     3 a git push to push the local to remote reposotiory
+        
 It shouild be noted that during the deployment stage and editing of the Readme. It was done through Google Chrome so I had issues with the repository being modified
 from several sources so I had to once an edit of the readme was iniated and submitted a commit was done. If I wanted to submit from the local server root directory I would have to do a git pull first to
 resync the files and then it is possible to commit from the local sandbox!.
