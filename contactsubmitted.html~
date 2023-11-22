@@ -52,8 +52,7 @@
 		
 	<section >
 		<div class="contact-info-submitted">
-			<h2>Your details have been submitted</h2>
-			<h2>You will be redirected to the main webpage in 10 seconds</h2>
+			<h2>Your details have been submitted. You will be redirected to the main webpage in 10 seconds</h2>
 			<p><a href="index.html">Return to main page</a></p>			
 		</div>	
 	</section>
