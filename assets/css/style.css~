@@ -256,7 +256,7 @@ hr.goto-top-text-hr{
 
 /* contactsubmitted form */
 .contact-info-submitted{
-		
+		padding-top: 140px;
 	width: 100vw;
 	height: 100vh;
 	text-align: center;
