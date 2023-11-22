@@ -56,11 +56,11 @@ Michael Cloran.
 <br>
 
 
- - The landing page is broken down into four areas
-   1. the page header with the navigation
-   2. the side bar
-   3. the main area
-   4. the footer
+ - The landing page is broken down into four areas<br>
+   1 the page header with the navigation<br>
+   2 the side bar<br>
+   3 the main area<br>
+   4 the footer<br>
    <br>
 where <br>
    1 is for the navigation and footer is present on all pages (Home, Education, Books, 404,form submitted redirect page and Contact). <br>
