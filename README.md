@@ -256,8 +256,8 @@ On the education nav link, on small screens a horizontal scroll is needed.
 ## Accessibility
 # Todo
 
-## Light house testing
 
+## Light house testing
 	* Lighthouse was used to test performance on each page as shown below.
 	<br>
 	
