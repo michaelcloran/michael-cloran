@@ -274,15 +274,12 @@ On the education nav link, on small screens a horizontal scroll is needed.
     <br>
     
 ![image](assets/readme_images/lighthouse_contact.png)
-    
     <br>
     <br>
 ![image](assets/readme_images/lighthouse_contactsubmitted.png)
-    
     <br>
     <br>
 ![image](assets/readme_images/lighthouse_404.png)
-    
     <br>
 <hr>
 <p align="right"><a  href="#top" >↑ Goto Top</a></p>
