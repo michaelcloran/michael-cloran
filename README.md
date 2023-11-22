@@ -366,9 +366,9 @@ it highlights the input field and gives and gives an error message<br>
   ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/84a9c5ea-2a04-4a69-96d5-ccc232d705ec)
     <br>
     
-- Screen grabs of CSS validator: https://jigsaw.w3.org/css-validator
+ Screen grabs of CSS validator: https://jigsaw.w3.org/css-validator
 <br>
-  ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/bef0caf1-de4b-4b30-834b-73909ec8eff5)
+![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/bef0caf1-de4b-4b30-834b-73909ec8eff5). 
 <br>
 
   
