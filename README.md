@@ -265,23 +265,23 @@ On the education nav link, on small screens a horizontal scroll is needed.
     <br>
     <br>
     
-![image](https://github.com/michaelcloran/michael-cloran/assets/readme_images/lighthouse_education.png)
+![image](assets/readme_images/lighthouse_education.png)
     <br>
     <br>
     
-![image](https://github.com/michaelcloran/michael-cloran/assets/readme_images/lighthouse_books.png)
+![image](assets/readme_images/lighthouse_books.png)
     <br>
     <br>
     
-![image](https://github.com/michaelcloran/michael-cloran/assets/readme_images/lighthouse_contact.png)
+![image](assets/readme_images/lighthouse_contact.png)
     
     <br>
     <br>
-![image](https://github.com/michaelcloran/michael-cloran/assets/readme_images/lighthouse_contactsubmitted.png)
+![image](assets/readme_images/lighthouse_contactsubmitted.png)
     
     <br>
     <br>
-![image](https://github.com/michaelcloran/michael-cloran/assets/readme_images/lighthouse_404.png)
+![image](assets/readme_images/lighthouse_404.png)
     
     <br>
 <hr>
