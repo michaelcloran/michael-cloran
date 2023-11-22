@@ -7,7 +7,7 @@ shows the employment history and education and books written by Michael Cloran.
 I have included a contact form which is not server functional at the moment!.
 
 The site is written in Curiculum Vitae format and is for anyone to research about
-Michael Cloran.<a href="https://michaelcloran.github.io/michael-cloran">CV here</a>
+Michael Cloran.<a href="https://michaelcloran.github.io/michael-cloran" target="_blank">CV here</a>
 
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/f76352cf-c163-4576-95bb-2b729de01b14)
 <br>
