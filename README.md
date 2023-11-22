@@ -338,6 +338,47 @@ it highlights the input field and gives and gives an error message<br>
     * I have used the HTML validator: https://validator.w3.org and all went well for all html files
     * I have also used the CSS validator: https://jigsaw.w3.org/css-validator and all went well on the styles
 
+    - Screen grabs of HTML validation : https://validator.w3.org/
+    1. index.html
+    <br>
+    
+   ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/11d5c847-0bd2-4e84-bf43-7c1074713508)
+    
+    <br>
+    2. education.html
+    <br>
+  ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/363cdda4-9be3-4e1c-aef2-86b279c5c61c)
+    <br>
+    3. books.html
+    <br>
+  ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/63525fe7-e64f-4e3b-8920-62f402787509)
+    <br>
+    4. contact.html
+    <br>
+  ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/d9579c39-5739-41af-b677-9c306b3da8ca)
+    <br>
+
+    I have also tested in the validator contactsubmitted.html and 404.html
+    <br>
+  ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/953bef05-5c02-46d6-8b39-f8739084e169)
+    <br>
+    <br>
+  ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/84a9c5ea-2a04-4a69-96d5-ccc232d705ec)
+    <br>
+    
+- Screen grabs of CSS validator: https://jigsaw.w3.org/css-validator
+<br>
+  ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/bef0caf1-de4b-4b30-834b-73909ec8eff5)
+<br>
+
+  
+
+
+    
+
+    
+
+
 <hr>
 <p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
