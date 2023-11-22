@@ -261,7 +261,7 @@ On the education nav link, on small screens a horizontal scroll is needed.
 	Lighthouse was used to test performance on each page as shown below.
 	<br>
 	
-![image](https://github.com/michaelcloran/michael-cloran/assets/readme_images/lighthouse_index.png)
+![image](assets/readme_images/lighthouse_index.png)
     <br>
     <br>
     
