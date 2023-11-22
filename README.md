@@ -117,23 +117,6 @@ where <br>
 <hr>
 <p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
-## - Testing
-On Google Chrome, Firefox and Microsoft Edge it is possible to test the code on different virtual devices. The screen grab below
-shows the website on the IPhone SE. I have with this tool tested the website on all devices present in Google Chrome, Firefox and Microsoft Edge
-and got reasonably good results.I have also tested it on my Mobile and got good results<br>
-    
-![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/b7823705-4ccd-4ee5-8305-f1cca37851f1)
-    <br>
-<hr>
-<p align="right"><a  href="#top" >↑ Goto Top</a></p>
-
-### - validation of code
-    * I have used the HTML validator: https://validator.w3.org and all went well for all html files
-    * I have also used the CSS validator: https://jigsaw.w3.org/css-validator and all went well on the styles
-
-<hr>
-<p align="right"><a  href="#top" >↑ Goto Top</a></p>
-
 ## - Existing Features
 * Responsive design for Desktop or Mobile
 * Contact form and sucess page
@@ -262,8 +245,97 @@ https://discourse.devontechnologies.com/t/floating-back-to-top-button-in-markdow
   Was used to mockup the wireframes for the site: https://balsamiq.com/wireframes/desktop/
 * Apache 2
   Was used as a sandbox local web server to easily play with the code.
+<br>
+<hr>
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
+<br>
 
-   
+## - Testing
+On Google Chrome, Firefox and Microsoft Edge it is possible to test the code on different virtual devices. The screen grab below
+shows the website on the IPhone SE. I have with this tool tested the website on all devices present in Google Chrome, Firefox and Microsoft Edge
+and got reasonably good results.I have also tested it on my Mobile and got good results<br>
+    
+![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/b7823705-4ccd-4ee5-8305-f1cca37851f1)
+
+- Steps to test
+  Open a browser and navigate to : https://michaelcloran.github.io/michael-cloran/
+  Then right click and on the context menu select Inspect and click on the icon
+  ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/484cf41f-25b3-409b-b294-0465e3d13437)
+  then your browser should be able to show diffent screen sizes as per mobile device as shown below
+  ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/b46bfbea-1e71-4401-a6c7-cc5ffb9d4f2c)
+  All virtual devices were tested and I got reasonable results. It should be noted that the virtual devices are sometimes
+  buggy.
+
+Expected
+All virtual devices are with the site responsive. And the site scales well under different screen sizes.
+
+Actual.
+On the education nav link, on small screens a horizontal scroll is needed. 
+  <br>
+  <hr>
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
+
+## Accessibility
+# Todo
+
+## Light house testing
+# Todo
+
+    <br>
+<hr>
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
+<br>
+
+## Functional testing
+
+### Navigation Links
+The site was tested to ensure that all links were operational for mobile and Desktop environments.
+<table>
+  <tr>
+    <th>Navigation Link</th>
+    <th>Page to load</th>
+  </tr>
+  <tr>
+    <td>Home</td>
+    <td>index.html</td>
+  </tr>
+  <tr>
+    <td>Eduation</td>
+    <td>education.html</td>
+  </tr>
+  <tr>
+    <td>Books</td>
+    <td>books.html</td>
+  </tr>
+  <tr>
+     <td>Contact</td>
+    <td>contact.html</td>
+  </tr>
+</table>
+
+## Form testing
+
+The form was tested with details shown below
+![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/bbc833d1-1896-428a-950a-7df6ec9f3cb3)
+
+On submit the forms action page is loaded and the user is given a message and a redirect to Home page in 10 seconds message.
+![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/8d0d0d02-5d03-4e39-86b4-a33cd056368b)
+
+It should be noted that all fields are required for the form to submit. The form was tested for this by putting in values and leaving 
+out values on other inputs fields and trying to submit. When a input is not entered and you press on submit the form does not submit
+it highlights the input field and gives and gives an error message
+![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/3c6326ef-bced-4b32-934c-edfdbdb8e87c)
+
+
+
+### - validation of code
+    * I have used the HTML validator: https://validator.w3.org and all went well for all html files
+    * I have also used the CSS validator: https://jigsaw.w3.org/css-validator and all went well on the styles
+
+<hr>
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
+
+
 
 
 
