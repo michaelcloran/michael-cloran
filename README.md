@@ -261,8 +261,10 @@ and got reasonably good results.I have also tested it on my Mobile and got good 
   Open a browser and navigate to : https://michaelcloran.github.io/michael-cloran/
   Then right click and on the context menu select Inspect and click on the icon<br>
   ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/484cf41f-25b3-409b-b294-0465e3d13437)
-  then your browser should be able to show diffent screen sizes as per mobile device as shown below<br>
+  then your browser should be able to show diffent screen sizes as per mobile device as shown below
+  <br>
   ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/b46bfbea-1e71-4401-a6c7-cc5ffb9d4f2c)
+  <br>
   All virtual devices were tested and I got reasonable results. It should be noted that the virtual devices are sometimes
   buggy.
 
