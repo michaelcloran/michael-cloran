@@ -257,8 +257,25 @@ On the education nav link, on small screens a horizontal scroll is needed.
 # Todo
 
 ## Light house testing
-# Todo
 
+	Lighthouse was used to test performance on each page as shown below.
+	<br>
+	![image](https://github.com/michaelcloran/michael-cloran/assets/readme_images/lighthouse_index.png)
+    <br>
+    <br>
+	![image](https://github.com/michaelcloran/michael-cloran/assets/readme_images/lighthouse_education.png)
+    <br>
+    <br>
+	![image](https://github.com/michaelcloran/michael-cloran/assets/readme_images/lighthouse_books.png)
+    <br>
+    <br>
+	![image](https://github.com/michaelcloran/michael-cloran/assets/readme_images/lighthouse_contact.png)
+    <br>
+    <br>
+	![image](https://github.com/michaelcloran/michael-cloran/assets/readme_images/lighthouse_contactsubmitted.png)
+    <br>
+    <br>
+	![image](https://github.com/michaelcloran/michael-cloran/assets/readme_images/lighthouse_404.png)
     <br>
 <hr>
 <p align="right"><a  href="#top" >↑ Goto Top</a></p>
