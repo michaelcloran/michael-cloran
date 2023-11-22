@@ -56,11 +56,11 @@ Michael Cloran.
 <br>
 
 
- - The landing page is broken down into four areas
-   1. the page header with the navigation
-   2. the side bar
-   3. the main area
-   4. the footer
+ - The landing page is broken down into four areas<br>
+   1 the page header with the navigation<br>
+   2 the side bar<br>
+   3 the main area<br>
+   4 the footer<br>
    <br>
 where <br>
    1 is for the navigation and footer is present on all pages (Home, Education, Books, 404,form submitted redirect page and Contact). <br>
@@ -117,23 +117,6 @@ where <br>
 <hr>
 <p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
-## - Testing
-On Google Chrome, Firefox and Microsoft Edge it is possible to test the code on different virtual devices. The screen grab below
-shows the website on the IPhone SE. I have with this tool tested the website on all devices present in Google Chrome, Firefox and Microsoft Edge
-and got reasonably good results.I have also tested it on my Mobile and got good results<br>
-    
-![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/b7823705-4ccd-4ee5-8305-f1cca37851f1)
-    <br>
-<hr>
-<p align="right"><a  href="#top" >↑ Goto Top</a></p>
-
-### - validation of code
-    * I have used the HTML validator: https://validator.w3.org and all went well for all html files
-    * I have also used the CSS validator: https://jigsaw.w3.org/css-validator and all went well on the styles
-
-<hr>
-<p align="right"><a  href="#top" >↑ Goto Top</a></p>
-
 ## - Existing Features
 * Responsive design for Desktop or Mobile
 * Contact form and sucess page
@@ -144,31 +127,6 @@ and got reasonably good results.I have also tested it on my Mobile and got good 
 <hr>
 <p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
-## Deployment
-The site was Deployed to GitHub.
-
-This was done by logging into GitHub, then choosing a repository michael-cloran then navigating to settings on the menu
-bar and then clicking on settings. Then on clicking pages on the sidebar and then on Build and deployment clicking on 
-Deploy from branch and for branch choosing main and root and then clicking on save. Once this is done the website will be deployed
-and after a few minutes it will be live on for instance : https://michaelcloran.github.io/michael-cloran/
-
-<hr>
-<p align="right"><a  href="#top" >↑ Goto Top</a></p>
-
-## Credits
-
-I used a CV appt online to see different colours and styles of CV : cvapp.ie CV creation from templates https://cvapp.ie/cv-templates
-
-I have also used w3schools throughout the design and I have used as boilerplate code love-running with major modifications.
-
-I have also used the GitHuB markdown manual.
-
-I have to give a shoutout to the link below as it thought me howto do the Goto Top: 
-https://discourse.devontechnologies.com/t/floating-back-to-top-button-in-markdown-documents/71696
-
-<br>
-<hr>
-<p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
 # Wireframes
 ## Home<br>
@@ -262,8 +220,175 @@ https://discourse.devontechnologies.com/t/floating-back-to-top-button-in-markdow
   Was used to mockup the wireframes for the site: https://balsamiq.com/wireframes/desktop/
 * Apache 2
   Was used as a sandbox local web server to easily play with the code.
+<br>
+<hr>
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
+<br>
 
+## - Testing
+On Google Chrome, Firefox and Microsoft Edge it is possible to test the code on different virtual devices. The screen grab below
+shows the website on the IPhone SE. I have with this tool tested the website on all devices present in Google Chrome, Firefox and Microsoft Edge
+and got reasonably good results.I have also tested it on my Mobile and got good results<br>
+    
+![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/b7823705-4ccd-4ee5-8305-f1cca37851f1)
+
+- Steps to test
+  Open a browser and navigate to : https://michaelcloran.github.io/michael-cloran/
+  Then right click and on the context menu select Inspect and click on the icon<br>
+  ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/484cf41f-25b3-409b-b294-0465e3d13437)
+  <br>
+  then your browser should be able to show diffent screen sizes as per mobile device as shown below
+  <br>
+  ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/b46bfbea-1e71-4401-a6c7-cc5ffb9d4f2c)
+  <br>
+All virtual devices were tested and I got reasonable results. It should be noted that the virtual devices are sometimes
+buggy.
+
+Expected
+All virtual devices are with the site responsive. And the site scales well under different screen sizes.
+
+Actual.
+On the education nav link, on small screens a horizontal scroll is needed. 
+  <br>
+  <hr>
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
+
+## Accessibility
+# Todo
+
+## Light house testing
+# Todo
+
+    <br>
+<hr>
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
+<br>
+
+## Functional testing
+
+### Navigation Links
+The site was tested to ensure that all links were operational for mobile and Desktop environments.
+<table>
+  <tr>
+    <th>Navigation Link</th>
+    <th>Page to load</th>
+  </tr>
+  <tr>
+    <td>Home</td>
+    <td>index.html</td>
+  </tr>
+  <tr>
+    <td>Eduation</td>
+    <td>education.html</td>
+  </tr>
+  <tr>
+    <td>Books</td>
+    <td>books.html</td>
+  </tr>
+  <tr>
+     <td>Contact</td>
+    <td>contact.html</td>
+  </tr>
+</table>
+
+## Form testing
+
+The form was tested with details shown below<br>
+![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/bbc833d1-1896-428a-950a-7df6ec9f3cb3)
+
+On submit the forms action page is loaded and the user is given a message and a redirect to Home page in 10 seconds message.<br>
+![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/8d0d0d02-5d03-4e39-86b4-a33cd056368b)
+
+It should be noted that all fields are required for the form to submit. The form was tested for this by putting in values and leaving 
+out values on other inputs fields and trying to submit. When a input is not entered and you press on submit the form does not submit
+it highlights the input field and gives and gives an error message<br>
+![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/3c6326ef-bced-4b32-934c-edfdbdb8e87c)
+
+<br>
+<hr>
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
+<br>
+
+### - validation of code
+    * I have used the HTML validator: https://validator.w3.org and all went well for all html files
+    * I have also used the CSS validator: https://jigsaw.w3.org/css-validator and all went well on the styles
+
+    - Screen grabs of HTML validation : https://validator.w3.org/
+    1. index.html
+    <br>
+    
+   ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/11d5c847-0bd2-4e84-bf43-7c1074713508)
+    
+    <br>
+    2. education.html
+    <br>
+  ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/363cdda4-9be3-4e1c-aef2-86b279c5c61c)
+    <br>
+    3. books.html
+    <br>
+  ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/63525fe7-e64f-4e3b-8920-62f402787509)
+    <br>
+    4. contact.html
+    <br>
+  ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/d9579c39-5739-41af-b677-9c306b3da8ca)
+    <br>
+
+    I have also tested in the validator contactsubmitted.html and 404.html
+    <br>
+  ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/953bef05-5c02-46d6-8b39-f8739084e169)
+    <br>
+    <br>
+  ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/84a9c5ea-2a04-4a69-96d5-ccc232d705ec)
+    <br>
+    
+ Screen grabs of CSS validator: https://jigsaw.w3.org/css-validator
+<br>
+![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/bef0caf1-de4b-4b30-834b-73909ec8eff5). 
+<br>
+<hr>
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
+
+ ## Deployment
+ - Version control
+   This site was created using Blue Fish web developer tools where a commit would be done by logging onto the server Apache 2 local sandbox
+   and opening a terminal in the root directory of the website<br>
    
+     1 a git add . would be done to add files<br>
+     2 a git commit -m "message"<br>
+     3 a git push to push the local to remote reposotiory<br>
+        
+It shouild be noted that during the deployment stage and editing of the Readme. It was done through Google Chrome so I had issues with the repository being modified
+from several sources so I had to once an edit of the readme was iniated and submitted a commit was done. If I wanted to submit from the local server root directory I would have to do a git pull first to
+resync the files and then it is possible to commit from the local sandbox!.
+
+  
+The site was Deployed to GitHub.
+
+This was done by logging into GitHub, then choosing a repository michael-cloran then navigating to settings on the menu
+bar and then clicking on settings. Then on clicking pages on the sidebar and then on Build and deployment clicking on 
+Deploy from branch and for branch choosing main and root and then clicking on save. Once this is done the website will be deployed
+and after a few minutes it will be live on for instance : https://michaelcloran.github.io/michael-cloran/
+
+<hr>
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
+
+## Credits
+
+I used a CV appt online to see different colours and styles of CV : cvapp.ie CV creation from templates https://cvapp.ie/cv-templates
+
+I have also used w3schools throughout the design and I have used as boilerplate code love-running with major modifications.
+
+I have also used the GitHuB markdown manual.
+
+I have to give a shoutout to the link below as it thought me howto do the Goto Top: 
+https://discourse.devontechnologies.com/t/floating-back-to-top-button-in-markdown-documents/71696
+
+<br>
+<hr>
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
+
+
+
 
 
 
