@@ -9,6 +9,9 @@ I have included a contact form which is not server functional at the moment!.
 The site is written in Curiculum Vitae format and is for anyone to research about
 Michael Cloran.
 
+![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/f76352cf-c163-4576-95bb-2b729de01b14)
+<br>
+
 ## Features
 ### Existing Features
 #### - Navigation Bar
@@ -21,7 +24,7 @@ Michael Cloran.
 <hr>
 <p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
-#### - Footer
+### - Footer
 * This is where the user can link to Michaels social media. Icons are accessible to the visually impared via aria-labels.
 
   ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/635a7bd4-7e9e-4012-a85d-ca848546653a)
@@ -105,7 +108,8 @@ where <br>
     ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/82c6f7f4-6cb3-4fcb-905a-7371f09b4cd9)
 
     <br>
-    - Contact form submitted redirect
+    
+    #### - Contact form submitted redirect
     
     ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/66809e96-0147-419c-aea1-f13c415f199f)
 
@@ -113,7 +117,7 @@ where <br>
 <hr>
 <p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
-## Testing
+## - Testing
 On Google Chrome, Firefox and Microsoft Edge it is possible to test the code on different virtual devices. The screen grab below
 shows the website on the IPhone SE. I have with this tool tested the website on all devices present in Google Chrome, Firefox and Microsoft Edge
 and got reasonably good results.I have also tested it on my Mobile and got good results<br>
@@ -123,9 +127,19 @@ and got reasonably good results.I have also tested it on my Mobile and got good 
 <hr>
 <p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
-### validation of code
+### - validation of code
     * I have used the HTML validator: https://validator.w3.org and all went well for all html files
     * I have also used the CSS validator: https://jigsaw.w3.org/css-validator and all went well on the styles
+
+<hr>
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
+
+## - Existing Features
+* Responsive design for Desktop or Mobile
+* Contact form and sucess page
+
+## - Features left to implement
+* To enable the contact form to be submitted to the server where a script could run and send an email to Michael Cloran.
 
 <hr>
 <p align="right"><a  href="#top" >↑ Goto Top</a></p>
@@ -229,6 +243,25 @@ https://discourse.devontechnologies.com/t/floating-back-to-top-button-in-markdow
 <hr>
 <p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
+## Technologies
+* HTML
+  The structure of the site was layed out in HTML.
+* CSS
+  The styling was done in a style.css file which is in the assets/css folder.
+* Blue Fish
+  This code was put together with the Blue Fish editor on a Linux machine.
+* Git
+  source management was done with Git.
+* GitHub
+  Was used throughout this project for online source code management and collaboration.
+* fontawesome
+  was used to get various fonts for the footer:  https://fontawesome.com/
+* favicon.io
+  Was used to get the fun site icon: https://favicon.io/favicon-generator/
+* balsamiq
+  Was used to mockup the wireframes for the site: https://balsamiq.com/wireframes/desktop/
+* Apache 2
+  Was used as a sandbox local web server to easily play with the code.
 
    
 
