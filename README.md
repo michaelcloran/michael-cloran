@@ -243,6 +243,25 @@ https://discourse.devontechnologies.com/t/floating-back-to-top-button-in-markdow
 <hr>
 <p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
+## Technologies
+* HTML
+  The structure of the site was layed out in HTML.
+* CSS
+  The styling was done in a style.css file which is in the assets/css folder.
+* Blue Fish
+  This code was put together with the Blue Fish editor on a Linux machine.
+* Git
+  source management was done with Git.
+* GitHub
+  Was used throughout this project for online source code management and collaboration.
+* fontawesome
+  was used to get various fonts for the footer:  https://fontawesome.com/
+* favicon.io
+  Was used to get the fun site icon: https://favicon.io/favicon-generator/
+* balsamiq
+  Was used to mockup the wireframes for the site: https://balsamiq.com/wireframes/desktop/
+* Apache 2
+  Was used as a sandbox local web server to easily play with the code.
 
    
 
