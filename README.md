@@ -43,6 +43,7 @@ Michael Cloran.<a href="https://michaelcloran.github.io/michael-cloran" target="
 ### - 404 page
  * A 404 page is present so when a user navigates to a broken link it will allow an avenue to recover.
  * It allows the user to easily navigate back to the site.
+ * it also implements a time function where it loads the home page after 10 seconds.
 
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/bb1ca315-4900-41b7-b1f1-1d00f555e096)
 <br>
