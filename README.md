@@ -127,31 +127,6 @@ where <br>
 <hr>
 <p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
-## Deployment
-The site was Deployed to GitHub.
-
-This was done by logging into GitHub, then choosing a repository michael-cloran then navigating to settings on the menu
-bar and then clicking on settings. Then on clicking pages on the sidebar and then on Build and deployment clicking on 
-Deploy from branch and for branch choosing main and root and then clicking on save. Once this is done the website will be deployed
-and after a few minutes it will be live on for instance : https://michaelcloran.github.io/michael-cloran/
-
-<hr>
-<p align="right"><a  href="#top" >↑ Goto Top</a></p>
-
-## Credits
-
-I used a CV appt online to see different colours and styles of CV : cvapp.ie CV creation from templates https://cvapp.ie/cv-templates
-
-I have also used w3schools throughout the design and I have used as boilerplate code love-running with major modifications.
-
-I have also used the GitHuB markdown manual.
-
-I have to give a shoutout to the link below as it thought me howto do the Goto Top: 
-https://discourse.devontechnologies.com/t/floating-back-to-top-button-in-markdown-documents/71696
-
-<br>
-<hr>
-<p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
 # Wireframes
 ## Home<br>
@@ -370,17 +345,35 @@ it highlights the input field and gives and gives an error message<br>
 <br>
 ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/bef0caf1-de4b-4b30-834b-73909ec8eff5). 
 <br>
+<hr>
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
-  
+ ## Deployment
+The site was Deployed to GitHub.
 
-
-    
-
-    
-
+This was done by logging into GitHub, then choosing a repository michael-cloran then navigating to settings on the menu
+bar and then clicking on settings. Then on clicking pages on the sidebar and then on Build and deployment clicking on 
+Deploy from branch and for branch choosing main and root and then clicking on save. Once this is done the website will be deployed
+and after a few minutes it will be live on for instance : https://michaelcloran.github.io/michael-cloran/
 
 <hr>
 <p align="right"><a  href="#top" >↑ Goto Top</a></p>
+
+## Credits
+
+I used a CV appt online to see different colours and styles of CV : cvapp.ie CV creation from templates https://cvapp.ie/cv-templates
+
+I have also used w3schools throughout the design and I have used as boilerplate code love-running with major modifications.
+
+I have also used the GitHuB markdown manual.
+
+I have to give a shoutout to the link below as it thought me howto do the Goto Top: 
+https://discourse.devontechnologies.com/t/floating-back-to-top-button-in-markdown-documents/71696
+
+<br>
+<hr>
+<p align="right"><a  href="#top" >↑ Goto Top</a></p>
+
 
 
 
