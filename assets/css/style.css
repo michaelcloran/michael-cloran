@@ -190,6 +190,9 @@ hr.goto-top-text-hr{
 	margin-left: 30px;
 	
 }
+.location{
+	display:none;
+}
 
 /* contact form */
 #contact{
@@ -334,6 +337,9 @@ footer{
 		width: 75%;
 		height: 100%;
 	}
+	.location{
+	display:block;
+}
 }
 
 /* media query: tablets and larger (768px and up) */
@@ -397,5 +403,8 @@ footer{
   		width: 75%;
 	}
     
+    .location{
+	display:block;
+}
 }
 

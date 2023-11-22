@@ -25,7 +25,7 @@
   	<h1>Michael Cloran</h1>
   </a>
   <input type="checkbox" id="nav-toggle" name="nav-toggle" aria-label="toggle for navigation menu">
-      <label for="nav-toggle" class="nav-toggle-label"><i class="fa-solid fa-bars"></i></label>
+      <label for="nav-toggle" class="nav-toggle-label"><span class="sr-only">Click for dropdown</span><i class="fa-solid fa-bars"></i></label>
       <nav>
         <ul id="menu">
           <li>
