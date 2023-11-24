@@ -355,7 +355,6 @@ it highlights the input field and gives and gives an error message<br>
     <br>
   ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/d9579c39-5739-41af-b677-9c306b3da8ca)
     <br>
-
     I have also tested in the validator contactsubmitted.html and 404.html
     <br>
   ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/953bef05-5c02-46d6-8b39-f8739084e169)
