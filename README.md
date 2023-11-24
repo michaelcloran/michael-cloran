@@ -338,9 +338,9 @@ it highlights the input field and gives and gives an error message<br>
   * I have used the HTML validator: https://validator.w3.org and all went well for all html files
   * I have also used the CSS validator: https://jigsaw.w3.org/css-validator and all went well on the styles
 
-  - Screen grabs of HTML validation : https://validator.w3.org/
+  - Screen grabs of HTML validation : https://validator.w3.org/ <br>
     1. index.html
-    <br>
+    
   ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/11d5c847-0bd2-4e84-bf43-7c1074713508)    
     <br>
     2. education.html
