@@ -255,8 +255,9 @@ On the education nav link, on small screens a horizontal scroll is needed.
 <p align="right"><a  href="#top" >↑ Goto Top</a></p>
 
 ## Accessibility
-# Todo
+Wave acessibility was used with this project link: https://wave.webaim.org/. With this app it was possible to test for possible problem code. 
 
+I had problems with hidden code and a special CSS class had to be added in order for the nav-toggle-label to show up without errors.
 
 ## Light house testing
 
@@ -333,15 +334,14 @@ it highlights the input field and gives and gives an error message<br>
 <br>
 
 ### - validation of code
-    * I have used the HTML validator: https://validator.w3.org and all went well for all html files
-    * I have also used the CSS validator: https://jigsaw.w3.org/css-validator and all went well on the styles
 
-    - Screen grabs of HTML validation : https://validator.w3.org/
+  * I have used the HTML validator: https://validator.w3.org and all went well for all html files
+  * I have also used the CSS validator: https://jigsaw.w3.org/css-validator and all went well on the styles
+
+  - Screen grabs of HTML validation : https://validator.w3.org/
     1. index.html
     <br>
-    
-   ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/11d5c847-0bd2-4e84-bf43-7c1074713508)
-    
+  ![image](https://github.com/michaelcloran/michael-cloran/assets/107754541/11d5c847-0bd2-4e84-bf43-7c1074713508)    
     <br>
     2. education.html
     <br>
@@ -407,6 +407,8 @@ I have to give a shoutout to the link below as it thought me howto do the Goto T
 https://discourse.devontechnologies.com/t/floating-back-to-top-button-in-markdown-documents/71696
 
 I also used for a hidden label on the nav-bar for accessability: https://medium.com/web-accessibility-tips-tricks-and-techniques-for/web-accessibility-tip-visually-hidden-text-for-screen-readers-a52d954d9711
+
+I also used as a template the readme of my mentors site: https://github.com/Gareth-McGirr/tacos-travels/
 
 <br>
 <hr>
